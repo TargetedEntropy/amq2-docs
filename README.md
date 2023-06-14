@@ -135,21 +135,25 @@
   * [cultural-delights-fabric-0.14.9+1.19.2.jar](https://www.curseforge.com/minecraft/mc-mods/cultural-delights-fabric/files/4329691) (by [MrSterner_](https://www.curseforge.com/members/MrSterner_/projects))
     * Farmer's Delight addon that adds food systems from around the world
   * [dankstorage-1.19.2-4.3.jar](https://www.curseforge.com/minecraft/mc-mods/dank-storage-fabric/files/4077255) (by [tfarecnim](https://www.curseforge.com/members/tfarecnim/projects))
+    * Containers that function as both storage, and backpacks
   * [dark-enchanting-1.0.2+1.19.2.jar](https://www.curseforge.com/minecraft/mc-mods/dark-enchanting/files/4465138) (by [ffrannny](https://www.curseforge.com/members/ffrannny/projects))
-  * [dataattributes-1.4.5+1.19.2.jar](https://www.curseforge.com/minecraft/mc-mods/data-attributes/files/4565001) (by [clevernucleus](https://www.curseforge.com/members/clevernucleus/projects))
+    * **Customized Enchantments**
   * [deathlog-0.2.11+1.19.jar](https://www.curseforge.com/minecraft/mc-mods/deathlog/files/4035273) (by [gliscowo](https://www.curseforge.com/members/gliscowo/projects))
+    * Tracks your deaths in all worlds and servers
   * [Decorative Blocks-fabric-1.19.2-3.0.0.jar](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks/files/3941637) (by [stohun](https://www.curseforge.com/members/stohun/projects))
+    * Adds several new decorative blocks
   * [deepmoblearning-refabricated-0.5.12-BETA+1.19.2.jar](https://www.curseforge.com/minecraft/mc-mods/deep-mob-learning-refabricated/files/4437241) (by [NathanPB](https://www.curseforge.com/members/NathanPB/projects))
+    * A way to create your own custom mob farms
   * [deeperdarker-fabric-1.1.6-fabric.jar](https://www.curseforge.com/minecraft/mc-mods/deeperdarker/files/4166675) (by [KyaniteMods](https://www.curseforge.com/members/KyaniteMods/projects))
-  * [DetailArmorBar-2.6.2+1.19-fabric.jar](https://www.curseforge.com/minecraft/mc-mods/detail-armor-bar/files/3823985) (by [RedLime](https://www.curseforge.com/members/RedLime/projects))
+    * **New dimension called the Otherside**
   * [fabric-diagonal-panes-0.6.4.jar](https://www.curseforge.com/minecraft/mc-mods/diagonal-panes/files/4026479) (by [magneticflux_](https://www.curseforge.com/members/magneticflux_/projects))
+    * Diagonal Window Panes
   * [DimensionalDoors-5.0.2-1.19.2.jar](https://www.curseforge.com/minecraft/mc-mods/dimensionaldoors/files/4328511) (by [DimensionalDevelopment](https://www.curseforge.com/members/DimensionalDevelopment/projects))
+    *  **Pocket dungeons that can vary from hallways to mazes to treasure rooms to straight-up traps.**
   * [disenchanter-0.1.7+1.19.jar](https://www.curseforge.com/minecraft/mc-mods/disenchanter/files/3834435) (by [gliscowo](https://www.curseforge.com/members/gliscowo/projects))
-  * [doublejump-1.0.1+mc1.19.jar](https://www.curseforge.com/minecraft/mc-mods/double-jump-mod/files/3821020) (by [TurtleArmyMc](https://www.curseforge.com/members/TurtleArmyMc/projects))
+    * Deceptively simple device for recovering enchantments from items
   * [dragonloot-1.1.2.jar](https://www.curseforge.com/minecraft/mc-mods/dragonloot/files/3951137) (by [pois1xlive](https://www.curseforge.com/members/pois1xlive/projects))
-  * [drippyloadingscreen_fabric_2.2.1_MC_1.19-1.19.2.jar](https://www.curseforge.com/minecraft/mc-mods/drippy-loading-screen-fabric/files/4508635) (by [Keksuccino](https://www.curseforge.com/members/Keksuccino/projects))
-  * [DripSounds-1.19-0.3.0.jar](https://www.curseforge.com/minecraft/mc-mods/dripsounds-fabric/files/3920638) (by [PieKing1215](https://www.curseforge.com/members/PieKing1215/projects))
-  * [dynamic-fps-2.2.0.jar](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps/files/3829250) (by [juliand665](https://www.curseforge.com/members/juliand665/projects))
+    * Crafting material for the Ender Dragon, Armor, etc
   * [earth2java-fabric-1.10.0+1.19.2.jar](https://www.curseforge.com/minecraft/mc-mods/earth2java/files/4551068) (by [Slexom](https://www.curseforge.com/members/Slexom/projects))
   * [effective-1.4.jar](https://www.curseforge.com/minecraft/mc-mods/effective/files/4036489) (by [doctor4t](https://www.curseforge.com/members/doctor4t/projects))
   * [eldritch-mobs-1.12.11.jar](https://www.curseforge.com/minecraft/mc-mods/eldritch-mobs/files/4430311) (by [cyborg_pigeon](https://www.curseforge.com/members/cyborg_pigeon/projects))
