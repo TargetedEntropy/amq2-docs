@@ -85,46 +85,55 @@
     * Connects Computer Craft and Create!
   * [chalk-2.2.0+1.19.jar](https://www.curseforge.com/minecraft/mc-mods/chalk-fabric/files/4552038) (by [DaFuqsy](https://www.curseforge.com/members/DaFuqsy/projects))
     * Chalk to mark up the world and leave notes, directional arrows, etc
-  * [chat_heads-0.10.14-fabric-1.19.2.jar](https://www.curseforge.com/minecraft/mc-mods/chat-heads/files/4520413) (by [dzwdz](https://www.curseforge.com/members/dzwdz/projects))
   * [chefs-delight-1.0.3-fabric-1.19.2.jar](https://www.curseforge.com/minecraft/mc-mods/chefs-delight-fabric/files/4517382) (by [redstone3game](https://www.curseforge.com/members/redstone3game/projects))
+    * Add-on for the Farmer's Delight mod. Adds 2 new professions to villagers. Cook and Chef.
   * [chesttracker-1.19.2-1.1.18.jar](https://www.curseforge.com/minecraft/mc-mods/chest-tracker/files/4074148) (by [JackFred2](https://www.curseforge.com/members/JackFred2/projects))
+    * Remembers where you've put items, Press 'Y' when hovering over an item
   * [chisel-1.4.7+1.19.2.jar](https://www.curseforge.com/minecraft/mc-mods/chisel-reborn/files/4047203) (by [Slaincow](https://www.curseforge.com/members/Slaincow/projects))
+    *  Addition of all blocks in older Chisel mods.
   * [chococraft-1.19.2-fabric-0.6.5.jar](https://www.curseforge.com/minecraft/mc-mods/chococraft/files/4371530) (by [clienthax](https://www.curseforge.com/members/clienthax/projects))
+    * Adds Chocobos, breeding.. rasing, etc.  (YAY!)
   * [chubbystuff-2.0.1-fabric.jar](https://www.curseforge.com/minecraft/mc-mods/chubby-stuff-fabric/files/4049351) (by [YoWabbit](https://www.curseforge.com/members/YoWabbit/projects))
+    * Adds Quagsire mob
   * [cleancut-1.19.2-5.1-fabric.jar](https://www.curseforge.com/minecraft/mc-mods/cleancut/files/3950652) (by [Rongmario](https://www.curseforge.com/members/Rongmario/projects))
+    * Attack enemies through obstructions!
   * [ClearDespawn-fabric-1.19.2-1.1.10.jar](https://www.curseforge.com/minecraft/mc-mods/clear-despawn-fabric/files/4070162) (by [StrikerRocker](https://www.curseforge.com/members/StrikerRocker/projects))
-  * [clickthrough-1.19.1-fabric0.58.5-0.4.jar](https://www.curseforge.com/minecraft/mc-mods/clickthrough/files/3907241) (by [Giselbaer](https://www.curseforge.com/members/Giselbaer/projects))
-  * [clienttweaks-fabric-1.19.2-8.1.2.jar](https://www.curseforge.com/minecraft/mc-mods/client-tweaks-fabric/files/4510612) (by [BlayTheNinth](https://www.curseforge.com/members/BlayTheNinth/projects))
-  * [climbladdersfast-3.0.6-1.19-fabric.jar](https://www.curseforge.com/minecraft/mc-mods/climb-ladders-fast/files/4375180) (by [spoorn](https://www.curseforge.com/members/spoorn/projects))
-  * [cloth-api-4.0.65.jar](https://www.curseforge.com/minecraft/mc-mods/cloth-api/files/3853858) (by [shedaniel](https://www.curseforge.com/members/shedaniel/projects))
-  * [cloth-config-8.2.88-fabric.jar](https://www.curseforge.com/minecraft/mc-mods/cloth-config/files/3972420) (by [shedaniel](https://www.curseforge.com/members/shedaniel/projects))
-  * [Clumps-fabric-1.19.2-9.0.0+14.jar](https://www.curseforge.com/minecraft/mc-mods/clumps/files/4153346) (by [Jaredlll08](https://www.curseforge.com/members/Jaredlll08/projects))
+    * Dropped items flash when they're about to de-spawn
   * [combatroll-fabric-1.1.5+1.19.jar](https://www.curseforge.com/minecraft/mc-mods/combat-roll/files/4428892) (by [daedelus_dev](https://www.curseforge.com/members/daedelus_dev/projects))
+    * Roll/Dodge/Dash 
   * [compact_storage_fabric-5.0.3_1.19.2.jar](https://www.curseforge.com/minecraft/mc-mods/compactstorage/files/4374192) (by [jessicastrongg](https://www.curseforge.com/members/jessicastrongg/projects))
+    * Different tiers of chests, with upgrades!
   * [companion-bats-fabric-1.19.3.jar](https://www.curseforge.com/minecraft/mc-mods/companion-bats/files/4423042) (by [fulmineo64](https://www.curseforge.com/members/fulmineo64/projects))
+    * Bat Pets!
   * [conjuring-1.0.26+1.19.jar](https://www.curseforge.com/minecraft/mc-mods/conjuring/files/4120815) (by [gliscowo](https://www.curseforge.com/members/gliscowo/projects))
+    * **Create your own spawners** and Weapons charged with Souls
   * [consistency_plus-fabric-0.5.1+1.19.2.jar](https://www.curseforge.com/minecraft/mc-mods/consistencyplus/files/3971956) (by [Cart3r1234](https://www.curseforge.com/members/Cart3r1234/projects))
-  * [continuity-2.0.2+1.19.jar](https://www.curseforge.com/minecraft/mc-mods/continuity/files/4441032) (by [Pepper_Bell](https://www.curseforge.com/members/Pepper_Bell/projects))
+    * Thousands of new building blocks for common materials used in builds
   * [cookingforblockheads-fabric-1.19.2-13.3.2.jar](https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads-fabric/files/4513821) (by [BlayTheNinth](https://www.curseforge.com/members/BlayTheNinth/projects))
-  * [CorgiLib-fabric-1.19.2-1.0.0.34.jar](https://www.curseforge.com/minecraft/mc-mods/corgilib/files/4554112) (by [Corgi_Taco](https://www.curseforge.com/members/Corgi_Taco/projects))
+    * Cook Book item along with a functional kitchen
   * [coxinhautilities-1.4.5+1.19.jar](https://www.curseforge.com/minecraft/mc-mods/coxinha-utilities/files/4073508) (by [Luligabi12](https://www.curseforge.com/members/Luligabi12/projects))
-  * [craftingtweaks-fabric-1.19.2-15.1.7.jar](https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks-fabric/files/4513860) (by [BlayTheNinth](https://www.curseforge.com/members/BlayTheNinth/projects))
-  * [CraftPresence-2.0.0-rc.3+1.19.2.jar](https://www.curseforge.com/minecraft/mc-mods/craftpresence/files/4515013) (by [CDAGaming_](https://www.curseforge.com/members/CDAGaming_/projects))
+    * Portable Tanks, Wooden Hopper, Aquatic Torch, **Lava Sponge** and **Aquatic Torches**
   * [crawl-0.11.1.jar](https://www.curseforge.com/minecraft/mc-mods/crawl/files/3972616) (by [fewizz_](https://www.curseforge.com/members/fewizz_/projects))
+    * Allows Crawling on the ground.
   * [create-fabric-0.5.0.i-1017+1.19.2.jar](https://www.curseforge.com/minecraft/mc-mods/create-fabric/files/4537370) (by [tropheusj](https://www.curseforge.com/members/tropheusj/projects))
+    * This is Create mod. google it :(
   * [createaddition-fabric+1.19.2-20230508b.jar](https://www.curseforge.com/minecraft/mc-mods/createaddition/files/4528919) (by [MRHminer](https://www.curseforge.com/members/MRHminer/projects))
-  * [CreativeCore_FABRIC_v2.9.3_mc1.19.2.jar](https://www.curseforge.com/minecraft/mc-mods/creativecore/files/4121642) (by [CreativeMD](https://www.curseforge.com/members/CreativeMD/projects))
+    * Bridge between electricity and kinetic energy from Create 
   * [CreaturesFromTheSnow-4.1.0+1.19.2.jar](https://www.curseforge.com/minecraft/mc-mods/creatures-from-the-snow-fabric/files/4337261) (by [YoWabbit](https://www.curseforge.com/members/YoWabbit/projects))
+    * Better Snow Biomes, new mobs, items and enchants!
   * [creeperoverhaul-2.0.9-fabric.jar](https://www.curseforge.com/minecraft/mc-mods/creeper-overhaul/files/4444671) (by [joosh_7889](https://www.curseforge.com/members/joosh_7889/projects))
+    * Biome-specific creeper types
   * [crittersandcompanions-fabric-1.19.2-2.0.1.jar](https://www.curseforge.com/minecraft/mc-mods/critters-and-companions/files/4568891) (by [joosh_7889](https://www.curseforge.com/members/joosh_7889/projects))
+    * Creature mod which will fill the overworld with new animals!
   * [FABRIC-Croparia-4.0.1.jar](https://www.curseforge.com/minecraft/mc-mods/croparia/files/4042913) (by [Dalarion01](https://www.curseforge.com/members/Dalarion01/projects))
   * [Croptopia-1.19.2-FABRIC-2.2.2.jar](https://www.curseforge.com/minecraft/mc-mods/croptopia/files/4344773) (by [thethonk](https://www.curseforge.com/members/thethonk/projects))
+    * Crops for cultivation and armors made by fire, air, water, earth and even obsidian too
   * [croptopia-chocolaterie-1.2-1.19.jar](https://www.curseforge.com/minecraft/mc-mods/croptopias-chocolaterie-fabric/files/3841443) (by [slomax907](https://www.curseforge.com/members/slomax907/projects))
+    * Chocolate making for Croptopia
   * [wraith-croptosis-1.5.1.jar](https://www.curseforge.com/minecraft/mc-mods/croptosis/files/3823457) (by [LordDeatHunter](https://www.curseforge.com/members/LordDeatHunter/projects))
-  * [CullLessLeaves-1.0.6.jar](https://www.curseforge.com/minecraft/mc-mods/cull-less-leaves/files/4002520) (by [XanderIsDev](https://www.curseforge.com/members/XanderIsDev/projects))
+    * New fertilizers and fertilized blocks
   * [cultural-delights-fabric-0.14.9+1.19.2.jar](https://www.curseforge.com/minecraft/mc-mods/cultural-delights-fabric/files/4329691) (by [MrSterner_](https://www.curseforge.com/members/MrSterner_/projects))
-  * [FabricCustomCursorMod-1.19-1.3.4.jar](https://www.curseforge.com/minecraft/mc-mods/cursor-mod/files/4133435) (by [ATE48](https://www.curseforge.com/members/ATE48/projects))
-  * [DamageTilt-1.19-fabric-0.1.2.jar](https://www.curseforge.com/minecraft/mc-mods/damage-tilt/files/3841695) (by [Charles445](https://www.curseforge.com/members/Charles445/projects))
+    * Farmer's Delight addon that adds food systems from around the world
   * [dankstorage-1.19.2-4.3.jar](https://www.curseforge.com/minecraft/mc-mods/dank-storage-fabric/files/4077255) (by [tfarecnim](https://www.curseforge.com/members/tfarecnim/projects))
   * [dark-enchanting-1.0.2+1.19.2.jar](https://www.curseforge.com/minecraft/mc-mods/dark-enchanting/files/4465138) (by [ffrannny](https://www.curseforge.com/members/ffrannny/projects))
   * [dataattributes-1.4.5+1.19.2.jar](https://www.curseforge.com/minecraft/mc-mods/data-attributes/files/4565001) (by [clevernucleus](https://www.curseforge.com/members/clevernucleus/projects))
