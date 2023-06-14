@@ -1,4 +1,6 @@
-## another-quality-modpack-2 - 1.5.9
+# another-quality-modpack-2 - 1.5.9
+
+This mod list was taken from [https://github.com/itsdinkd/AQM2/blob/1.19.2/MODLIST.md](https://github.com/itsdinkd/AQM2/blob/1.19.2/MODLIST.md)
 
   * [ad_astra-fabric-1.19.2-1.12.6.jar](https://www.curseforge.com/minecraft/mc-mods/ad-astra/files/4452051) (by [AlexNijjar](https://www.curseforge.com/members/AlexNijjar/projects))
     * Space mod for Fabric and Forge with a focus on technology, travel and exploration
