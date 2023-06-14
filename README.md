@@ -409,7 +409,6 @@ This mod list was taken from [https://github.com/itsdinkd/AQM2/blob/1.19.2/MODLI
     * Adds enchantment to break matching connected blocks. 
   * [villager-hats-1.4.3.jar](https://www.curseforge.com/minecraft/mc-mods/villager-hats-mod/files/4386684) (by [PinkGoosik](https://www.curseforge.com/members/PinkGoosik/projects))
     * Allows you to craft and wear villagers hat
-  * [visuality-0.5.6.jar](https://www.curseforge.com/minecraft/mc-mods/visuality/files/4418106) (by [PinkGoosik](https://www.curseforge.com/members/PinkGoosik/projects))
   * [voidz-1.0.9.jar](https://www.curseforge.com/minecraft/mc-mods/voidz/files/3951132) (by [Globox_Z](https://www.curseforge.com/members/Globox_Z/projects))
     * Dimension where you will find and fight the Void Shadow.
   * [walljump-unofficial-1.6.1b-all+1.19.2.jar](https://www.curseforge.com/minecraft/mc-mods/wall-jump-unofficial-arch/files/4085822) (by [dangbroitsdon](https://www.curseforge.com/members/dangbroitsdon/projects))
@@ -417,17 +416,16 @@ This mod list was taken from [https://github.com/itsdinkd/AQM2/blob/1.19.2/MODLI
       * Wall Cling: Jump towards a wall and hold the wall jump key (default: LSHIFT). Then...
       * Wall Jump: While wall clinging, keep holding W and let go of wall jump key (default: LSHIFT) to wall jump.
   * [DungeonsArise-1.19.2-2.1.55-fabric-beta.jar](https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise-fabric/files/4502600) (by [Aureljz](https://www.curseforge.com/members/Aureljz/projects))
-  * [WI-Zoom-1.4-MC1.19.2.jar](https://www.curseforge.com/minecraft/mc-mods/wi-zoom/files/3921702) (by [alexander9892](https://www.curseforge.com/members/alexander9892/projects))
+    *  Massive dungeon generator which gathers plenty of dungeons and generates them randomly
   * [winged-1.19-3.3.0.jar](https://www.curseforge.com/minecraft/mc-mods/winged/files/3876095) (by [NotJustAnna](https://www.curseforge.com/members/NotJustAnna/projects))
+    * Adds permanent wings to Minecraft.
   * [wirelessnetworks-1.6.0.jar](https://www.curseforge.com/minecraft/mc-mods/wireless-networks/files/3876132) (by [GabrielHOlv](https://www.curseforge.com/members/GabrielHOlv/projects))
+    * Wireless Energy networks
   * [wizards-fabric-0.9.17+1.19.jar](https://www.curseforge.com/minecraft/mc-mods/wizards/files/4559755) (by [daedelus_dev](https://www.curseforge.com/members/daedelus_dev/projects))
-  * [wmitaf-fabric-mc1.19-3.1.1.jar](https://www.curseforge.com/minecraft/mc-mods/wmitaf/files/4049590) (by [ShaksterNano](https://www.curseforge.com/members/ShaksterNano/projects))
-  * [multiworldborders-1.5-fabric-1.19.jar](https://www.curseforge.com/minecraft/mc-mods/world-border-fix/files/3831515) (by [potatoboy99999](https://www.curseforge.com/members/potatoboy99999/projects))
-  * [wthit-fabric-5.16.1.jar](https://www.curseforge.com/minecraft/mc-mods/wthit/files/4544616) (by [badasintended](https://www.curseforge.com/members/badasintended/projects))
-  * [Xaeros_Minimap_23.4.4_Fabric_1.19.1.jar](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/files/4550313) (by [xaero96](https://www.curseforge.com/members/xaero96/projects))
-  * [XaerosWorldMap_1.30.3_Fabric_1.19.1.jar](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/files/4550332) (by [xaero96](https://www.curseforge.com/members/xaero96/projects))
+    * Easy, flashy and balanced magic for combat
   * [xp_obelisk-0.4.9-r+1.19.2-Fabric.jar](https://www.curseforge.com/minecraft/mc-mods/xp-obelisk/files/4476849) (by [Meridanus](https://www.curseforge.com/members/Meridanus/projects))
-  * [YetAnotherConfigLib-2.2.0-for-1.19.2.jar](https://www.curseforge.com/minecraft/mc-mods/yacl/files/4361292) (by [XanderIsDev](https://www.curseforge.com/members/XanderIsDev/projects))
+    * A simple mod to store experience points
   * [allay-fabric-4.1.0.jar](https://www.curseforge.com/minecraft/mc-mods/ydms-allay/files/3906394) (by [YourDailyModderx](https://www.curseforge.com/members/YourDailyModderx/projects))
-  * [yosbr-0.1.1.jar](https://www.curseforge.com/minecraft/mc-mods/yosbr/files/2934596) (by [shedaniel](https://www.curseforge.com/members/shedaniel/projects))
+    * Adds Allays to the game
   * [youre-in-grave-danger-1.4.9.jar](https://www.curseforge.com/minecraft/mc-mods/youre-in-grave-danger/files/4503995) (by [b1n_ry](https://www.curseforge.com/members/b1n_ry/projects))
+     * add graves to your game, which will spawn at your death location with all your items
