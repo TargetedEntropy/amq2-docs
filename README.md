@@ -362,41 +362,60 @@ This mod list was taken from [https://github.com/itsdinkd/AQM2/blob/1.19.2/MODLI
   * [Structory_Towers_1.19_v1.0.1.jar](https://www.curseforge.com/minecraft/mc-mods/structory-towers/files/4306457) (by [botanydev](https://www.curseforge.com/members/botanydev/projects))
     * Adds immersive, biome-themed towers to the world
   * [structureessentials-fabric-1.19.2-2.8.jar](https://www.curseforge.com/minecraft/mc-mods/structure-essentials-forge-fabric/files/4553851) (by [someaddon](https://www.curseforge.com/members/someaddon/projects))
+    * Command to list nearby structures (/structureessentials getStructuresNearby)
+    * Command to list Tags for a Biome (/structureessentials getBiomeTags)
+    * Command to list Biomes for a Tag (/structureessentials getBiomesForTag)
   * [structure-tools-1.0.30.jar](https://www.curseforge.com/minecraft/mc-mods/structure-tools/files/3837190) (by [ProjectET](https://www.curseforge.com/members/ProjectET/projects))
-  * [suggestion-tweaker-1.19.1-1.4.1-fabric.jar](https://www.curseforge.com/minecraft/mc-mods/suggestion-tweaker/files/4489997) (by [VelizarP](https://www.curseforge.com/members/VelizarP/projects))
+    * . At this time there are four tools, which will help you build your St'ructures
   * [supplementaries-1.19.2-2.3.17-fabric.jar](https://www.curseforge.com/minecraft/mc-mods/supplementaries/files/4568478) (by [MehVahdJukaar](https://www.curseforge.com/members/MehVahdJukaar/projects))
-  * [tr-patchouli-2.1.1.jar](https://www.curseforge.com/minecraft/mc-mods/tech-reborn-patchouli/files/4036791) (by [Ayutac](https://www.curseforge.com/members/Ayutac/projects))
+    * Adds new redstone, functional blocks, tools and world customizations with new entities
   * [TechReborn-5.4.0.jar](https://www.curseforge.com/minecraft/mc-mods/techreborn/files/4102770) (by [modmuss50](https://www.curseforge.com/members/modmuss50/projects))
+    * Acompletely standalone tech mod including tools and machines to gather resources, process materials, and progress through the mod.
   * [teenycoal-1.1.4-1.19.x.jar](https://www.curseforge.com/minecraft/mc-mods/teenycoal/files/3845915) (by [Andrew6rant](https://www.curseforge.com/members/Andrew6rant/projects))
+    * Adds miniature versions of coal and charcoal, as well as tiny redstone, soul, and regular torches
   * [tempad-fabric-1.19.2-1.4.4.jar](https://www.curseforge.com/minecraft/mc-mods/tempad/files/4373373) (by [CodexAdrian](https://www.curseforge.com/members/CodexAdrian/projects))
-  * [TerraBlender-fabric-1.19.2-2.0.1.136.jar](https://www.curseforge.com/minecraft/mc-mods/terrablender-fabric/files/4205731) (by [TheAdubbz](https://www.curseforge.com/members/TheAdubbz/projects))
+    * Adds a table device that can save locations and teleport to them
   * [Terralith_1.19.3_v2.3.8.jar](https://www.curseforge.com/minecraft/mc-mods/terralith/files/4549496) (by [Starmute](https://www.curseforge.com/members/Starmute/projects))
+    * New Biomes and Caves
   * [The_Graveyard_Biomes_1.6_(FABRIC)_for_1.19.2.jar](https://www.curseforge.com/minecraft/mc-mods/the-graveyard-biomes-fabric/files/4090409) (by [finallion_13](https://www.curseforge.com/members/finallion_13/projects))
+    * Adds new spooky biomes
   * [The_Graveyard_2.3.3_(FABRIC)_for_1.19.2.jar](https://www.curseforge.com/minecraft/mc-mods/the-graveyard-fabric/files/4555248) (by [finallion_13](https://www.curseforge.com/members/finallion_13/projects))
+    * Adds new spooky structures, mobs and block
   * [things-0.3.0+1.19.jar](https://www.curseforge.com/minecraft/mc-mods/things-fabric/files/4354883) (by [gliscowo](https://www.curseforge.com/members/gliscowo/projects))
+    * Things is a collection of many small and a few bigger items:
+      * Displacement Tome - Allows you to teleport to up to 8 locations, ender pearls are fuel
+      * Water Wucket - Infinite Water
+      * Ender Pouch - portable Ender Chest
+      * Encahnted Wax Gland - Float in water and be faster
   * [rocks-1.6.1.jar](https://www.curseforge.com/minecraft/mc-mods/this-rocks/files/3837155) (by [Motschen](https://www.curseforge.com/members/Motschen/projects))
+    * Adds little rocks, sticks, pinecones, seashells, starfish, and geysers
   * [tiered-1.2.7.jar](https://www.curseforge.com/minecraft/mc-mods/tieredz/files/4510628) (by [Globox_Z](https://www.curseforge.com/members/Globox_Z/projects))
-  * [timeoutout-1.0.3+1.19.1.jar](https://www.curseforge.com/minecraft/mc-mods/timeoutout-fabric/files/3903067) (by [potatoboy99999](https://www.curseforge.com/members/potatoboy99999/projects))
-  * [Tips-Fabric-1.19.2-8.0.27.jar](https://www.curseforge.com/minecraft/mc-mods/tips/files/4277193) (by [DarkhaxDev](https://www.curseforge.com/members/DarkhaxDev/projects))
+    * Every tool and armor piece you make will have a special modifier, which provides additional stat bonuses and abilities.
   * [toms_storage_fabric-1.19-1.5.6.jar](https://www.curseforge.com/minecraft/mc-mods/toms-storage-fabric/files/4533987) (by [tom54541](https://www.curseforge.com/members/tom54541/projects))
-  * [ToolStats-Fabric-1.19.2-12.0.2.jar](https://www.curseforge.com/minecraft/mc-mods/tool-stats/files/3944167) (by [DarkhaxDev](https://www.curseforge.com/members/DarkhaxDev/projects))
-  * [totw_additions-1.2.4-1.19.x-fabric.jar](https://www.curseforge.com/minecraft/mc-mods/towers-of-the-wild-additions/files/4390044) (by [Aureljz](https://www.curseforge.com/members/Aureljz/projects))
+    * Simple vanilla style storage mod.
   * [Towns-and-Towers-v.1.10.1-FABRIC-1.19.2.jar](https://www.curseforge.com/minecraft/mc-mods/towns-and-towers/files/4102867) (by [Biban_Auriu](https://www.curseforge.com/members/Biban_Auriu/projects))
+    * New villages, pillager outposts, and even brand-new ships
   * [TradingPost-v4.2.0-1.19.2-Fabric.jar](https://www.curseforge.com/minecraft/mc-mods/trading-post/files/3945830) (by [Fuzs](https://www.curseforge.com/members/Fuzs/projects))
-  * [transparent-5.1.2+1.19-fabric.jar](https://www.curseforge.com/minecraft/mc-mods/transparent/files/4031059) (by [Trikzon](https://www.curseforge.com/members/Trikzon/projects))
+    * Adds one simple block, which when used allows you to trade with all villagers in a configurable are
   * [trashslot-fabric-1.19-12.0.2.jar](https://www.curseforge.com/minecraft/mc-mods/trashslot-fabric-edition/files/4412863) (by [BlayTheNinth](https://www.curseforge.com/members/BlayTheNinth/projects))
+    * Adds a trash slot to your inventory
   * [travelers-backpack-1.19.2-8.2.22.jar](https://www.curseforge.com/minecraft/mc-mods/travelers-backpack-fabric/files/4539508) (by [Tiviacz1337](https://www.curseforge.com/members/Tiviacz1337/projects))
-  * [trinkets-3.4.2.jar](https://www.curseforge.com/minecraft/mc-mods/trinkets/files/4343755) (by [EmilyPloszaj](https://www.curseforge.com/members/EmilyPloszaj/projects))
+    * Backpacks with Upgrades!
   * [twigs-3.0.0-fabric-1.19.2.jar](https://www.curseforge.com/minecraft/mc-mods/twigs/files/4531594) (by [ninnih_](https://www.curseforge.com/members/ninnih_/projects))
+    * All about building, adding new and interesting materials
   * [VanitySlots-1.2.8.jar](https://www.curseforge.com/minecraft/mc-mods/vanityslots/files/4556201) (by [Nyakorita](https://www.curseforge.com/members/Nyakorita/projects))
+    * Adds four extra armor slots for visual display only
   * [veinmining-fabric-1.1.1+1.19.2.jar](https://www.curseforge.com/minecraft/mc-mods/vein-mining-fabric/files/4429353) (by [TheIllusiveC4](https://www.curseforge.com/members/TheIllusiveC4/projects))
+    * Adds enchantment to break matching connected blocks. 
   * [villager-hats-1.4.3.jar](https://www.curseforge.com/minecraft/mc-mods/villager-hats-mod/files/4386684) (by [PinkGoosik](https://www.curseforge.com/members/PinkGoosik/projects))
-  * [VisualWorkbench-v4.2.4-1.19.2-Fabric.jar](https://www.curseforge.com/minecraft/mc-mods/visual-workbench/files/4455249) (by [Fuzs](https://www.curseforge.com/members/Fuzs/projects))
+    * Allows you to craft and wear villagers hat
   * [visuality-0.5.6.jar](https://www.curseforge.com/minecraft/mc-mods/visuality/files/4418106) (by [PinkGoosik](https://www.curseforge.com/members/PinkGoosik/projects))
   * [voidz-1.0.9.jar](https://www.curseforge.com/minecraft/mc-mods/voidz/files/3951132) (by [Globox_Z](https://www.curseforge.com/members/Globox_Z/projects))
-  * [voyager-2.1.0-1.18-1.19.x.jar](https://www.curseforge.com/minecraft/mc-mods/voyager/files/3822975) (by [MCLegoMan](https://www.curseforge.com/members/MCLegoMan/projects))
+    * Dimension where you will find and fight the Void Shadow.
   * [walljump-unofficial-1.6.1b-all+1.19.2.jar](https://www.curseforge.com/minecraft/mc-mods/wall-jump-unofficial-arch/files/4085822) (by [dangbroitsdon](https://www.curseforge.com/members/dangbroitsdon/projects))
-  * [waveycapes-fabric-1.3.2-mc1.19.2.jar](https://www.curseforge.com/minecraft/mc-mods/waveycapes/files/4391904) (by [tr7zw](https://www.curseforge.com/members/tr7zw/projects))
+    * Adds wall jumping and double jumping to the game.
+      * Wall Cling: Jump towards a wall and hold the wall jump key (default: LSHIFT). Then...
+      * Wall Jump: While wall clinging, keep holding W and let go of wall jump key (default: LSHIFT) to wall jump.
   * [DungeonsArise-1.19.2-2.1.55-fabric-beta.jar](https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise-fabric/files/4502600) (by [Aureljz](https://www.curseforge.com/members/Aureljz/projects))
   * [WI-Zoom-1.4-MC1.19.2.jar](https://www.curseforge.com/minecraft/mc-mods/wi-zoom/files/3921702) (by [alexander9892](https://www.curseforge.com/members/alexander9892/projects))
   * [winged-1.19-3.3.0.jar](https://www.curseforge.com/minecraft/mc-mods/winged/files/3876095) (by [NotJustAnna](https://www.curseforge.com/members/NotJustAnna/projects))
