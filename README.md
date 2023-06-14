@@ -70,15 +70,21 @@
   * [brewinandchewin-fabric-1.0.6+1.19.2.jar](https://www.curseforge.com/minecraft/mc-mods/brewin-and-chewin-fabric/files/4474429) (by [MrSterner_](https://www.curseforge.com/members/MrSterner_/projects))
     * Adds kegs and fermenting mechanics to Farmer's Delight
   * [calibrated-1.1.0+1.19.jar](https://www.curseforge.com/minecraft/mc-mods/calibrated/files/4403699) (by [acikek](https://www.curseforge.com/members/acikek/projects))
-  * [can-i-mine-this-block-1.3.0.jar](https://www.curseforge.com/minecraft/mc-mods/can-i-mine-this-block/files/3831994) (by [shedaniel](https://www.curseforge.com/members/shedaniel/projects))
+    *  Calibrate with a block and open its screen from anywhere
   * [capybara-1.19-2.0.1.jar](https://www.curseforge.com/minecraft/mc-mods/capybara-fabric/files/4104265) (by [ZestyBlaze](https://www.curseforge.com/members/ZestyBlaze/projects))
-  * [cardinal-components-api-5.0.2.jar](https://www.curseforge.com/minecraft/mc-mods/cardinal-components/files/3954769) (by [UpcraftLP](https://www.curseforge.com/members/UpcraftLP/projects))
+    * Adds the Capybara!
   * [fabric-carpet-1.19.2-1.4.84+v221018.jar](https://www.curseforge.com/minecraft/mc-mods/carpet/files/4033215) (by [gnembon](https://www.curseforge.com/members/gnembon/projects))
+    * Better Carpets!
   * [carryon-fabric-1.19.2-2.0.5.11.jar](https://www.curseforge.com/minecraft/mc-mods/carry-on/files/4507153) (by [Tschipp](https://www.curseforge.com/members/Tschipp/projects))
+    * Pickup animals and blocks with shift+click in an empty slot
   * [catwalks-inc-1.3.1.jar](https://www.curseforge.com/minecraft/mc-mods/catwalks-inc/files/3912708) (by [Reoseah](https://www.curseforge.com/members/Reoseah/projects))
+    * Build Industrial Cat Walk frameworks.
   * [cc-restitched-1.101.2.jar](https://www.curseforge.com/minecraft/mc-mods/cc-restitched/files/3908334) (by [merithtk](https://www.curseforge.com/members/merithtk/projects))
+    * ComputerCraft... Computers.. in Minecraft.
   * [cccbridge-1.4.1-fabric.jar](https://www.curseforge.com/minecraft/mc-mods/cccbridge/files/4417215) (by [Sammy_echt](https://www.curseforge.com/members/Sammy_echt/projects))
+    * Connects Computer Craft and Create!
   * [chalk-2.2.0+1.19.jar](https://www.curseforge.com/minecraft/mc-mods/chalk-fabric/files/4552038) (by [DaFuqsy](https://www.curseforge.com/members/DaFuqsy/projects))
+    * Chalk to mark up the world and leave notes, directional arrows, etc
   * [chat_heads-0.10.14-fabric-1.19.2.jar](https://www.curseforge.com/minecraft/mc-mods/chat-heads/files/4520413) (by [dzwdz](https://www.curseforge.com/members/dzwdz/projects))
   * [chefs-delight-1.0.3-fabric-1.19.2.jar](https://www.curseforge.com/minecraft/mc-mods/chefs-delight-fabric/files/4517382) (by [redstone3game](https://www.curseforge.com/members/redstone3game/projects))
   * [chesttracker-1.19.2-1.1.18.jar](https://www.curseforge.com/minecraft/mc-mods/chest-tracker/files/4074148) (by [JackFred2](https://www.curseforge.com/members/JackFred2/projects))
