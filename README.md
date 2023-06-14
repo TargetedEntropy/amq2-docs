@@ -155,20 +155,19 @@
   * [dragonloot-1.1.2.jar](https://www.curseforge.com/minecraft/mc-mods/dragonloot/files/3951137) (by [pois1xlive](https://www.curseforge.com/members/pois1xlive/projects))
     * Crafting material for the Ender Dragon, Armor, etc
   * [earth2java-fabric-1.10.0+1.19.2.jar](https://www.curseforge.com/minecraft/mc-mods/earth2java/files/4551068) (by [Slexom](https://www.curseforge.com/members/Slexom/projects))
-  * [effective-1.4.jar](https://www.curseforge.com/minecraft/mc-mods/effective/files/4036489) (by [doctor4t](https://www.curseforge.com/members/doctor4t/projects))
+    * Adds mobs and items from Minecraft Earth
   * [eldritch-mobs-1.12.11.jar](https://www.curseforge.com/minecraft/mc-mods/eldritch-mobs/files/4430311) (by [cyborg_pigeon](https://www.curseforge.com/members/cyborg_pigeon/projects))
+    * Makes the mobs more challenging and rewarding to kill
   * [emotecraft-for-MC1.19.2-2.2.7-b.build.48-fabric.jar](https://www.curseforge.com/minecraft/mc-mods/emotecraft/files/4455300) (by [KosmX](https://www.curseforge.com/members/KosmX/projects))
-  * [EnchantmentDescriptions-Fabric-1.19.2-13.0.14.jar](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions/files/4277355) (by [DarkhaxDev](https://www.curseforge.com/members/DarkhaxDev/projects))
-  * [enhanced_attack_indicator-1.0.4+1.19.jar](https://www.curseforge.com/minecraft/mc-mods/enhanced-attack-indicator/files/3855667) (by [Minenash](https://www.curseforge.com/members/Minenash/projects))
-  * [entityculling-fabric-1.6.1-mc1.19.2.jar](https://www.curseforge.com/minecraft/mc-mods/entityculling/files/4404950) (by [tr7zw](https://www.curseforge.com/members/tr7zw/projects))
-  * [EquipmentCompare-1.19-fabric-1.3.1.jar](https://www.curseforge.com/minecraft/mc-mods/equipment-compare-fabric/files/3848278) (by [Grend_G](https://www.curseforge.com/members/Grend_G/projects))
+    * Emotes in Minecraft JAVA
   * [expandedstorage-8.3.4+1.19.2-fabric.jar](https://www.curseforge.com/minecraft/mc-mods/expanded-storage/files/4568476) (by [MessyEllie](https://www.curseforge.com/members/MessyEllie/projects))
+    *  storage containers: chests, old chests, barrels and mini chests.
   * [ExplorersCompass-1.19.2-2.2.0-fabric.jar](https://www.curseforge.com/minecraft/mc-mods/explorers-compass/files/4016464) (by [Chaosyr](https://www.curseforge.com/members/Chaosyr/projects))
+    * item that allows you to locate structures anywhere in the world
   * [ExtendedDrawers-1.4.1+mc.1.19.2.jar](https://www.curseforge.com/minecraft/mc-mods/extended-drawers/files/4562404) (by [MattiDragon](https://www.curseforge.com/members/MattiDragon/projects))
-  * [Extra Classes - Origins.jar](https://www.curseforge.com/minecraft/mc-mods/extra-classes-origins/files/3865250) (by [proman468](https://www.curseforge.com/members/proman468/projects))
+    * Easy creation of powerful yet not overpowered storage systems using simple components.
   * [extra-generators-1.2.1-BETA+1.19.jar](https://www.curseforge.com/minecraft/mc-mods/extra-generators/files/3856206) (by [D4rkness_King](https://www.curseforge.com/members/D4rkness_King/projects))
-  * [extraorigins-1.19-2.jar](https://www.curseforge.com/minecraft/mc-mods/extra-origins/files/3878952) (by [MoriyaShiine](https://www.curseforge.com/members/MoriyaShiine/projects))
-  * [extra_thicc_packets-1.0.jar](https://www.curseforge.com/minecraft/mc-mods/extra-thicc-packets/files/4032019) (by [JaselUmena](https://www.curseforge.com/members/JaselUmena/projects))
+    * Adds a variety of generators
   * [fabric-api-0.76.0+1.19.2.jar](https://www.curseforge.com/minecraft/mc-mods/fabric-api/files/4438705) (by [modmuss50](https://www.curseforge.com/members/modmuss50/projects))
   * [DisableCustomWorldsAdvice-3.0.jar](https://www.curseforge.com/minecraft/mc-mods/fabric-disable-custom-worlds-advice/files/3827588) (by [Nara](https://www.curseforge.com/members/Nara/projects))
   * [fabric-enchantments-0.9.0.jar](https://www.curseforge.com/minecraft/mc-mods/fabric-enchantments/files/4119756) (by [safrodev](https://www.curseforge.com/members/safrodev/projects))
@@ -429,9 +428,3 @@
   * [allay-fabric-4.1.0.jar](https://www.curseforge.com/minecraft/mc-mods/ydms-allay/files/3906394) (by [YourDailyModderx](https://www.curseforge.com/members/YourDailyModderx/projects))
   * [yosbr-0.1.1.jar](https://www.curseforge.com/minecraft/mc-mods/yosbr/files/2934596) (by [shedaniel](https://www.curseforge.com/members/shedaniel/projects))
   * [youre-in-grave-danger-1.4.9.jar](https://www.curseforge.com/minecraft/mc-mods/youre-in-grave-danger/files/4503995) (by [b1n_ry](https://www.curseforge.com/members/b1n_ry/projects))
-  * [YungsApi-1.19.2-Fabric-3.8.9.jar](https://www.curseforge.com/minecraft/mc-mods/yungs-api-fabric/files/4441684) (by [YUNGNICKYOUNG](https://www.curseforge.com/members/YUNGNICKYOUNG/projects))
-  * [YungsBetterDesertTemples-1.19.2-Fabric-2.2.2.jar](https://www.curseforge.com/minecraft/mc-mods/yungs-better-desert-temples-fabric/files/4419321) (by [YUNGNICKYOUNG](https://www.curseforge.com/members/YUNGNICKYOUNG/projects))
-  * [YungsBetterDungeons-1.19.2-Fabric-3.2.1.jar](https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons-fabric/files/4031673) (by [YUNGNICKYOUNG](https://www.curseforge.com/members/YUNGNICKYOUNG/projects))
-  * [YungsBetterMineshafts-1.19.2-Fabric-3.2.0.jar](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-fabric/files/4031205) (by [YUNGNICKYOUNG](https://www.curseforge.com/members/YUNGNICKYOUNG/projects))
-  * [YungsBetterStrongholds-1.19.2-Fabric-3.2.0.jar](https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds-fabric/files/4031215) (by [YUNGNICKYOUNG](https://www.curseforge.com/members/YUNGNICKYOUNG/projects))
-
