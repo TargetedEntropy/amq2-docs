@@ -255,54 +255,49 @@ This mod list was taken from [https://github.com/itsdinkd/AQM2/blob/1.19.2/MODLI
   * [labels-1.19.2-1.9-fabric.jar](https://www.curseforge.com/minecraft/mc-mods/labels/files/4527829) (by [MehVahdJukaar](https://www.curseforge.com/members/MehVahdJukaar/projects))
     * Storage Labels This is a simple mod that adds one item, the Label
   * [LargeFluidTank-19.1.596-fabric.jar](https://www.curseforge.com/minecraft/mc-mods/largefluidtank-fabric/files/4066168) (by [Kotori316](https://www.curseforge.com/members/Kotori316/projects))
+    * Stackable fluid tank blocks
   * [lava-java-0.4.1.jar](https://www.curseforge.com/minecraft/mc-mods/lava-java/files/3834031) (by [TigerOfTroy](https://www.curseforge.com/members/TigerOfTroy/projects))
-  * [lazydfu-0.1.3.jar](https://www.curseforge.com/minecraft/mc-mods/lazydfu/files/3821870) (by [tuxed](https://www.curseforge.com/members/tuxed/projects))
-  * [LegendaryTooltips-1.19.2-fabric-1.3.3.jar](https://www.curseforge.com/minecraft/mc-mods/legendary-tooltips-fabric/files/3998293) (by [Grend_G](https://www.curseforge.com/members/Grend_G/projects))
+    * Adds Coffee
   * [vinery-fabric-1.2.11.jar](https://www.curseforge.com/minecraft/mc-mods/lets-do-wine/files/4559566) (by [satisfy](https://www.curseforge.com/members/satisfy/projects))
-  * [lib39-1.4.2.jar](https://www.curseforge.com/minecraft/mc-mods/lib39/files/4277483) (by [unascribed](https://www.curseforge.com/members/unascribed/projects))
-  * [libIPN-fabric-1.19-2.0.7.jar](https://www.curseforge.com/minecraft/mc-mods/libipn/files/4512907) (by [mirinimi](https://www.curseforge.com/members/mirinimi/projects))
-  * [libra-0.5.44.jar](https://www.curseforge.com/minecraft/mc-mods/libra-an-origins-addon/files/4029506) (by [JaselUmena](https://www.curseforge.com/members/JaselUmena/projects))
-  * [libz-1.0.0.jar](https://www.curseforge.com/minecraft/mc-mods/libz/files/4454838) (by [Globox_Z](https://www.curseforge.com/members/Globox_Z/projects))
+    * Vinery contains nearly everything needed for not only creating wine but also for building up your own vinery.
   * [light-overlay-7.0.0.jar](https://www.curseforge.com/minecraft/mc-mods/light-overlay/files/3832013) (by [shedaniel](https://www.curseforge.com/members/shedaniel/projects))
+    * A light overlay to show if mobs are able to spawn
   * [lightest-lamps-fabric-3.0.0f.jar](https://www.curseforge.com/minecraft/mc-mods/lightest-lamps-fabric/files/3965300) (by [Prefex89](https://www.curseforge.com/members/Prefex89/projects))
-  * [lithium-fabric-mc1.19.2-0.10.4.jar](https://www.curseforge.com/minecraft/mc-mods/lithium/files/4151762) (by [jellysquid3_](https://www.curseforge.com/members/jellysquid3_/projects))
-  * [Log-Begone-Fabric-1.19.x-1.0.6.jar](https://www.curseforge.com/minecraft/mc-mods/log-begone/files/4521573) (by [AzureDoomC](https://www.curseforge.com/members/AzureDoomC/projects))
-  * [logprot-fabric-1.19-2.0.jar](https://www.curseforge.com/minecraft/mc-mods/login-protection/files/4348798) (by [someaddon](https://www.curseforge.com/members/someaddon/projects))
-  * [lootintegrations-fabric-1.19.3-3.1.jar](https://www.curseforge.com/minecraft/mc-mods/loot-integrations/files/4434542) (by [someaddon](https://www.curseforge.com/members/someaddon/projects))
-  * [lootjs-fabric-1.19.2-2.8.0.jar](https://www.curseforge.com/minecraft/mc-mods/lootjs/files/4487196) (by [Lytho](https://www.curseforge.com/members/Lytho/projects))
-  * [lootr-1.19-0.4.26.65.jar](https://www.curseforge.com/minecraft/mc-mods/lootr-fabric/files/4558419) (by [Noobanidus](https://www.curseforge.com/members/Noobanidus/projects))
-  * [lovely_snails-1.1.0+1.19.jar](https://www.curseforge.com/minecraft/mc-mods/lovely-snails/files/3837771) (by [LambdAurora](https://www.curseforge.com/members/LambdAurora/projects))
+    * Adds a lot of lamps that have bigger light range and special ones.
   * [luggage-1.19-1.5.2.jar](https://www.curseforge.com/minecraft/mc-mods/luggage/files/4284469) (by [GizmoTheMoonPig](https://www.curseforge.com/members/GizmoTheMoonPig/projects))
-  * [mcw-bridges-2.0.7-mc1.19.2fabric.jar](https://www.curseforge.com/minecraft/mc-mods/macaws-bridges/files/4446196) (by [sketch_macaw](https://www.curseforge.com/members/sketch_macaw/projects))
-  * [macawsbridgesbyg-fabric-1.19.2-1.2.jar](https://www.curseforge.com/minecraft/mc-mods/macaws-bridges-oh-the-biomes-youll-go/files/4473696) (by [Samlegamer_](https://www.curseforge.com/members/Samlegamer_/projects))
-  * [mcw-fences-1.0.7-mc1.19.2fabric.jar](https://www.curseforge.com/minecraft/mc-mods/macaws-fences-and-walls/files/4203533) (by [sketch_macaw](https://www.curseforge.com/members/sketch_macaw/projects))
-  * [mcw-lights-1.0.5-mc1.19.2fabric.jar](https://www.curseforge.com/minecraft/mc-mods/macaws-lights-and-lamps/files/4358250) (by [sketch_macaw](https://www.curseforge.com/members/sketch_macaw/projects))
-  * [mcw-paintings-1.0.4fabric-mc1.19.2.jar](https://www.curseforge.com/minecraft/mc-mods/macaws-paintings/files/3923001) (by [sketch_macaw](https://www.curseforge.com/members/sketch_macaw/projects))
-  * [mcw-windows-2.1.2-mc1.19.2fabric.jar](https://www.curseforge.com/minecraft/mc-mods/macaws-windows/files/4271891) (by [sketch_macaw](https://www.curseforge.com/members/sketch_macaw/projects))
+    * Luggage follows you around and picks up items on the ground and storing them in its inventory. You can open its inventory by right clicking it.
   * [MageFlame-fabric-mc1.19.2-v1.5.0.jar](https://www.curseforge.com/minecraft/mc-mods/mage-flame/files/4529153) (by [gottsch](https://www.curseforge.com/members/gottsch/projects))
+    * **Create dynamic light sources that follow you**
   * [magitekmechs-fabric-MC1.19.2-1.0.15.jar](https://www.curseforge.com/minecraft/mc-mods/magitek-mechs/files/4057306) (by [DigiDigi_](https://www.curseforge.com/members/DigiDigi_/projects))
-  * [malilib-fabric-1.19.2-0.13.0.jar](https://www.curseforge.com/minecraft/mc-mods/malilib/files/3923052) (by [masady](https://www.curseforge.com/members/masady/projects))
+    * Magic-infused mechs based on Final Fantasy 6's Magitek Armor.
   * [soulslike-weaponry-0.9.9.3.jar](https://www.curseforge.com/minecraft/mc-mods/mariums-soulslike-weaponry/files/4529934) (by [mariumbacchus](https://www.curseforge.com/members/mariumbacchus/projects))
-  * [marketcrates-fabric-1.5.jar](https://www.curseforge.com/minecraft/mc-mods/market-crates/files/4094192) (by [lfaoanl](https://www.curseforge.com/members/lfaoanl/projects))
-  * [MaxHealthFix-Fabric-1.19.2-8.0.1.jar](https://www.curseforge.com/minecraft/mc-mods/max-health-fix/files/3943054) (by [DarkhaxDev](https://www.curseforge.com/members/DarkhaxDev/projects))
+    * Adds 30+ legendary weapons, 5 bosses, new ores and more!
   * [mcda-2.4.4.jar](https://www.curseforge.com/minecraft/mc-mods/mcda/files/4416381) (by [chronos_sacaria](https://www.curseforge.com/members/chronos_sacaria/projects))
+    * Armors from Minecraft Dungeons
   * [mcdar-1.5.3-1.19.jar](https://www.curseforge.com/minecraft/mc-mods/mcdar/files/4407903) (by [chronos_sacaria](https://www.curseforge.com/members/chronos_sacaria/projects))
+    * Artifacts from Minecraft Dungeons
   * [MCDoom-Fabric-1.19.2-5.0.4.jar](https://www.curseforge.com/minecraft/mc-mods/mcdoom/files/4536067) (by [AzureDoomC](https://www.curseforge.com/members/AzureDoomC/projects))
+    * Minecraft Doom stuff
   * [mcdw-5.0.11-1.19.jar](https://www.curseforge.com/minecraft/mc-mods/mcdw/files/4542707) (by [chronos_sacaria](https://www.curseforge.com/members/chronos_sacaria/projects))
-  * [mcpitanlibarch-1.6.3-1.19.2-fabric.jar](https://www.curseforge.com/minecraft/mc-mods/mcpitanlibarch/files/4485579) (by [pitan76](https://www.curseforge.com/members/pitan76/projects))
+    * Weapons from Minecraft Dungeons
   * [mcsa-fabric-3.1.4+1.19.jar](https://www.curseforge.com/minecraft/mc-mods/mcsa/files/4481007) (by [chronos_sacaria](https://www.curseforge.com/members/chronos_sacaria/projects))
+    * Armors from Minecraft Story Mode 
   * [megacells-fabric-2.0.0-beta.11-1.19.2.jar](https://www.curseforge.com/minecraft/mc-mods/mega-cells/files/4562656) (by [ninety](https://www.curseforge.com/members/ninety/projects))
-  * [megane-8.4.2.jar](https://www.curseforge.com/minecraft/mc-mods/megane/files/4562614) (by [badasintended](https://www.curseforge.com/members/badasintended/projects))
+    * MEGA Cells is an add-on for AE2 that provides higher tiers of storage
   * [merequester-1.19.2-1.1.2.jar](https://www.curseforge.com/minecraft/mc-mods/merequester/files/4502648) (by [Relentless](https://www.curseforge.com/members/Relentless/projects))
-  * [midnightlib-fabric-1.0.0.jar](https://www.curseforge.com/minecraft/mc-mods/midnightlib/files/4059589) (by [TeamMidnightDust](https://www.curseforge.com/members/TeamMidnightDust/projects))
+    * Makes it easy to automatically keep items and fluids in your AE2 ME-System in stock.
   * [Mine-Pop! 1.0-1.19.2 (FABRIC).jar](https://www.curseforge.com/minecraft/mc-mods/mine-pop/files/4020874) (by [steficy3110](https://www.curseforge.com/members/steficy3110/projects))
+    * Adds Funko-Pop in Minecraft!
   * [minecells-1.4.3.jar](https://www.curseforge.com/minecraft/mc-mods/minecells/files/4501789) (by [mim1q](https://www.curseforge.com/members/mim1q/projects))
-  * [MiniEffects-1.19.2-fabric-5.2.1.jar](https://www.curseforge.com/minecraft/mc-mods/mini-effects-fabric/files/4393877) (by [Snownee_](https://www.curseforge.com/members/Snownee_/projects))
+    * New Dimension, blocks and mobs
   * [miningutility-1.2.6+1.19.jar](https://www.curseforge.com/minecraft/mc-mods/mining-utility/files/4073662) (by [Luligabi12](https://www.curseforge.com/members/Luligabi12/projects))
-  * [mixintrace-1.1.1+1.17.jar](https://www.curseforge.com/minecraft/mc-mods/mixintrace/files/3831043) (by [comp500](https://www.curseforge.com/members/comp500/projects))
+    *  Ease your difficulties while mining with simple items
   * [dummmmmmy-1.19.2-1.7.1-fabric.jar](https://www.curseforge.com/minecraft/mc-mods/mmmmmmmmmmmm/files/4410141) (by [MehVahdJukaar](https://www.curseforge.com/members/MehVahdJukaar/projects))
+    * Adds a Target Dummy.
   * [mocolors-1.5.0.jar](https://www.curseforge.com/minecraft/mc-mods/mo-colors/files/3873927) (by [GabrielHOlv](https://www.curseforge.com/members/GabrielHOlv/projects))
+    * Adds a Painter which can be crafted with two sticks and one wool.
   * [Mo-Glass-1.6.1-MC1.19.2.jar](https://www.curseforge.com/minecraft/mc-mods/mo-glass/files/3921699) (by [alexander9892](https://www.curseforge.com/members/alexander9892/projects))
+    * High Quality Glass Pieces
   * [MobPlaques-v4.0.1-1.19.2-Fabric.jar](https://www.curseforge.com/minecraft/mc-mods/mob-plaques/files/4332085) (by [Fuzs](https://www.curseforge.com/members/Fuzs/projects))
   * [mobz-3.3.5-fabric.jar](https://www.curseforge.com/minecraft/mc-mods/mobz/files/4036547) (by [Globox_Z](https://www.curseforge.com/members/Globox_Z/projects))
   * [modelfix-1.8-fabric.jar](https://www.curseforge.com/minecraft/mc-mods/model-gap-fix/files/4024854) (by [MehVahdJukaar](https://www.curseforge.com/members/MehVahdJukaar/projects))
