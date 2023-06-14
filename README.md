@@ -243,9 +243,9 @@ This mod list was taken from [https://github.com/itsdinkd/AQM2/blob/1.19.2/MODLI
     * Adds a simply mining dimension
   * [kibe-1.9.11-BETA+1.19.jar](https://www.curseforge.com/minecraft/mc-mods/kibe/files/4352610) (by [D4rkness_King](https://www.curseforge.com/members/D4rkness_King/projects))
     * A miscellaneous mod that adds a bunch of random, and mostly unoriginal things. (LOL)
-      * Entangled Chests linked chests that work across dimensions and stores the same items as long as they are color-coded the same.
-      * Cursed Dirt is a simple grass-like block that burns when exposed to sunlight, but when in dark environments, will have vastly improved spawn rate for monsters.
-      * Big Torch is a block that cancels any mob spawning that requires no light in a configurable area. It's useful to protect your base and to clean caves and dungeons.
+      * Entangled Chests linked chests that work across dimensions and stores the same items as long as they are color-coded the same
+      * Cursed Dirt vastly improved spawn rate for monsters
+      * Big Torch cancels any mob spawning that requires no light
       * Elevators are simple blocks that, when stepped upon, can teleport the player upwards and downwards, as long as it finds another elevator directly above or below it.
       * Vacuum Hoppers are blocks that can pull nearby dropped items and experience orbs to their own inventory.
       * XP Drains are blocks that will drain XP from a player and store it in a fluid container placed directly below it.
@@ -253,9 +253,7 @@ This mod list was taken from [https://github.com/itsdinkd/AQM2/blob/1.19.2/MODLI
       * Witherproof Blocks and Wither Builders
       * Gliders
   * [labels-1.19.2-1.9-fabric.jar](https://www.curseforge.com/minecraft/mc-mods/labels/files/4527829) (by [MehVahdJukaar](https://www.curseforge.com/members/MehVahdJukaar/projects))
-  * [lambdabettergrass-1.3.0+1.19.jar](https://www.curseforge.com/minecraft/mc-mods/lambdabettergrass/files/3834055) (by [LambdAurora](https://www.curseforge.com/members/LambdAurora/projects))
-  * [lambdynamiclights-2.2.0+1.19.2.jar](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights/files/4257321) (by [LambdAurora](https://www.curseforge.com/members/LambdAurora/projects))
-  * [Lankasters Origins.jar](https://www.curseforge.com/minecraft/mc-mods/lankaster-origins/files/4406106) (by [lankasteria](https://www.curseforge.com/members/lankasteria/projects))
+    * Storage Labels This is a simple mod that adds one item, the Label
   * [LargeFluidTank-19.1.596-fabric.jar](https://www.curseforge.com/minecraft/mc-mods/largefluidtank-fabric/files/4066168) (by [Kotori316](https://www.curseforge.com/members/Kotori316/projects))
   * [lava-java-0.4.1.jar](https://www.curseforge.com/minecraft/mc-mods/lava-java/files/3834031) (by [TigerOfTroy](https://www.curseforge.com/members/TigerOfTroy/projects))
   * [lazydfu-0.1.3.jar](https://www.curseforge.com/minecraft/mc-mods/lazydfu/files/3821870) (by [tuxed](https://www.curseforge.com/members/tuxed/projects))
