@@ -210,25 +210,25 @@ This mod list was taken from [https://github.com/itsdinkd/AQM2/blob/1.19.2/MODLI
     * **Powerful armor, tools, weapons, rings, medallions, staffs, and enchantments.**
   * [GuardiansGalore-1.19.2-3.1.jar](https://www.curseforge.com/minecraft/mc-mods/guardians-galore/files/4095977) (by [chirpycricket__](https://www.curseforge.com/members/chirpycricket__/projects))
     * **Adds summonable mobs to guard your base!**
-  * [half-doors-1.3.9+1.19.x.jar](https://www.curseforge.com/minecraft/mc-mods/half-doors/files/3931393) (by [AmyMialee](https://www.curseforge.com/members/AmyMialee/projects))
   * [wraith-harvestscythes-2.5.4+mc1.19.2.jar](https://www.curseforge.com/minecraft/mc-mods/harvest-scythes/files/4026103) (by [LordDeatHunter](https://www.curseforge.com/members/LordDeatHunter/projects))
+    * Right clicking with a scythe will harvest (and replant) nearby crops in a certain range based on the tool
   * [heartstone-1.19.2-1.1.2-fabric.jar](https://www.curseforge.com/minecraft/mc-mods/heartstone/files/4569322) (by [plantspookable](https://www.curseforge.com/members/plantspookable/projects))
+    * **Heartstone item (comes in pairs) that allows two players to find each other**
   * [hexal-fabric-1.19.2-0.2.14.jar](https://www.curseforge.com/minecraft/mc-mods/hexal/files/4491341) (by [Talia](https://www.curseforge.com/members/Talia/projects))
+    * Adds Wisps mobs that can cast Hex spells for you
   * [hexcasting-fabric-1.19.2-0.10.3.jar](https://www.curseforge.com/minecraft/mc-mods/hexcasting/files/4132955) (by [petrak_at](https://www.curseforge.com/members/petrak_at/projects))
+    * Stack-based programmable spellcasting
   * [hookshot-26.0.jar](https://www.curseforge.com/minecraft/mc-mods/hookshot/files/3856033) (by [Cammie](https://www.curseforge.com/members/Cammie/projects))
-  * [horse-stats-vanilla-4.2.2.jar](https://www.curseforge.com/minecraft/mc-mods/horsestatsvanilla/files/3875040) (by [TeaJ4y](https://www.curseforge.com/members/TeaJ4y/projects))
-  * [hwyla-addon-horseinfo-0.4.2-1.19.jar](https://www.curseforge.com/minecraft/mc-mods/hwyla-addon-horse-info/files/3836677) (by [Pancham138](https://www.curseforge.com/members/Pancham138/projects))
-  * [IKnowWhatImDoing-4.1.1-fabric.jar](https://www.curseforge.com/minecraft/mc-mods/i-know-what-im-doing/files/4326852) (by [HeckinChloe](https://www.curseforge.com/members/HeckinChloe/projects))
-  * [Iceberg-1.19.1-fabric-1.0.46.jar](https://www.curseforge.com/minecraft/mc-mods/iceberg-fabric/files/3922111) (by [Grend_G](https://www.curseforge.com/members/Grend_G/projects))
-  * [illuminations-1.10.11.jar](https://www.curseforge.com/minecraft/mc-mods/illuminations/files/4073907) (by [doctor4t](https://www.curseforge.com/members/doctor4t/projects))
-  * [ImmediatelyFast-1.1.12+1.19.jar](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast/files/4484923) (by [RaphiMC](https://www.curseforge.com/members/RaphiMC/projects))
+    * Adds a grappling hook-like tool for the player to use to get around.
   * [immersive_aircraft-0.4.2+1.19.2-fabric.jar](https://www.curseforge.com/minecraft/mc-mods/immersive-aircraft/files/4476551) (by [Conczin](https://www.curseforge.com/members/Conczin/projects))
+    * Adds bunch of rustic aircraft to travel, transport, and explore!
+      * **YOU CAN BUILD PLANES**
   * [impaled-1.1.4.jar](https://www.curseforge.com/minecraft/mc-mods/impaled/files/3823512) (by [doctor4t](https://www.curseforge.com/members/doctor4t/projects))
-  * [impersonate-2.8.0-standalone.jar](https://www.curseforge.com/minecraft/mc-mods/impersonate/files/3987502) (by [PyrofabTheModsmith](https://www.curseforge.com/members/PyrofabTheModsmith/projects))
+    * Adds new Tridents, Sincere Loyalty (Loyalty IV) and a few tweaks and fixes to all tridents
   * [incantationem-1.1.6+1.19.jar](https://www.curseforge.com/minecraft/mc-mods/incantationem/files/4018252) (by [Luligabi12](https://www.curseforge.com/members/Luligabi12/projects))
-  * [indium-1.0.9+mc1.19.2.jar](https://www.curseforge.com/minecraft/mc-mods/indium/files/3957480) (by [comp500](https://www.curseforge.com/members/comp500/projects))
+    * Adding enchantments and curses to the game.
   * [indrev-1.15.1-BETA.jar](https://www.curseforge.com/minecraft/mc-mods/industrial-revolution/files/4020957) (by [GabrielHOlv](https://www.curseforge.com/members/GabrielHOlv/projects))
-  * [Animal_Origins_v1.9_FABRIC_1.19.jar](https://www.curseforge.com/minecraft/mc-mods/infinite-origins-animals/files/3830262) (by [Naox_95](https://www.curseforge.com/members/Naox_95/projects))
+    * Industrial Revolution presents standard processing machines for your factory
   * [IngredientExtensionAPI-fabric-1.19.2-3.0.6.jar](https://www.curseforge.com/minecraft/mc-mods/ingredient-extension-api/files/4134668) (by [Jaredlll08](https://www.curseforge.com/members/Jaredlll08/projects))
   * [inmis-2.7.1-1.19.jar](https://www.curseforge.com/minecraft/mc-mods/inmis/files/4031400) (by [Draylar1](https://www.curseforge.com/members/Draylar1/projects))
   * [inmisaddon-1.0.4.jar](https://www.curseforge.com/minecraft/mc-mods/inmisaddon/files/4460813) (by [Globox_Z](https://www.curseforge.com/members/Globox_Z/projects))
