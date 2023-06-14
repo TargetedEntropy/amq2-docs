@@ -358,7 +358,9 @@ This mod list was taken from [https://github.com/itsdinkd/AQM2/blob/1.19.2/MODLI
   * [stoneholm-1.4.4.jar](https://www.curseforge.com/minecraft/mc-mods/stoneholm/files/3819692) (by [TheGrimsey](https://www.curseforge.com/members/TheGrimsey/projects))
     * Underground Villages
   * [Structory-1.19-v1.3.jar](https://www.curseforge.com/minecraft/mc-mods/structory/files/4033419) (by [botanydev](https://www.curseforge.com/members/botanydev/projects))
+    * Seasonally updated, atmospheric structure mod with light lore
   * [Structory_Towers_1.19_v1.0.1.jar](https://www.curseforge.com/minecraft/mc-mods/structory-towers/files/4306457) (by [botanydev](https://www.curseforge.com/members/botanydev/projects))
+    * Adds immersive, biome-themed towers to the world
   * [structureessentials-fabric-1.19.2-2.8.jar](https://www.curseforge.com/minecraft/mc-mods/structure-essentials-forge-fabric/files/4553851) (by [someaddon](https://www.curseforge.com/members/someaddon/projects))
   * [structure-tools-1.0.30.jar](https://www.curseforge.com/minecraft/mc-mods/structure-tools/files/3837190) (by [ProjectET](https://www.curseforge.com/members/ProjectET/projects))
   * [suggestion-tweaker-1.19.1-1.4.1-fabric.jar](https://www.curseforge.com/minecraft/mc-mods/suggestion-tweaker/files/4489997) (by [VelizarP](https://www.curseforge.com/members/VelizarP/projects))
