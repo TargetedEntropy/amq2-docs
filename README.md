@@ -44,31 +44,32 @@
     * YOU CAN MAKE CARS, nuff' said.
   * [autorun-1.19.X-0.5.0.jar](https://www.curseforge.com/minecraft/mc-mods/autorun-fabric/files/3829891) (by [Emonadeo](https://www.curseforge.com/members/Emonadeo/projects))
     * Left hand tired? Use AUTO RUN!
-  * [badpackets-fabric-0.2.1.jar](https://www.curseforge.com/minecraft/mc-mods/badpackets/files/4073853) (by [badasintended](https://www.curseforge.com/members/badasintended/projects))
-  * [balm-fabric-1.19.2-4.5.7.jar](https://www.curseforge.com/minecraft/mc-mods/balm-fabric/files/4442592) (by [BlayTheNinth](https://www.curseforge.com/members/BlayTheNinth/projects))
-  * [bclib-2.1.6.jar](https://www.curseforge.com/minecraft/mc-mods/bclib/files/4393099) (by [Quiqueck](https://www.curseforge.com/members/Quiqueck/projects))
   * [BedBenefits-Fabric-1.19.2-9.1.3.jar](https://www.curseforge.com/minecraft/mc-mods/bed-benefits/files/4426617) (by [DarkhaxDev](https://www.curseforge.com/members/DarkhaxDev/projects))
-  * [beenfo-1.19.1-fabric0.58.5-1.3.3-spigot.jar](https://www.curseforge.com/minecraft/mc-mods/beenfo/files/3907293) (by [Giselbaer](https://www.curseforge.com/members/Giselbaer/projects))
+    * Sleeping in a bed will heal a player and cure negative+positive potion effects
   * [besmirchment-1.19.2-10.jar](https://www.curseforge.com/minecraft/mc-mods/besmirchment-2/files/4529881) (by [MrSterner_](https://www.curseforge.com/members/MrSterner_/projects))
+   * Implements more or less satirical content
   * [bettercombat-fabric-1.7.1+1.19.jar](https://www.curseforge.com/minecraft/mc-mods/better-combat-by-daedelus/files/4534620) (by [daedelus_dev](https://www.curseforge.com/members/daedelus_dev/projects))
-  * [BetterCompatibilityChecker-Fabric-2.0.2-build.16+mc1.19.1.jar](https://www.curseforge.com/minecraft/mc-mods/better-compatibility-checker/files/3904696) (by [Gaz_](https://www.curseforge.com/members/Gaz_/projects))
-  * [betterfpsdist-fabric-1.19-2.4.jar](https://www.curseforge.com/minecraft/mc-mods/better-fps-render-distance-fabric/files/4351677) (by [someaddon](https://www.curseforge.com/members/someaddon/projects))
-  * [bsvsb-3.0.2.jar](https://www.curseforge.com/minecraft/mc-mods/better-sodium-video-settings-button/files/3926121) (by [PiemanDev](https://www.curseforge.com/members/PiemanDev/projects))
+   * Easy, spectacular and fun melee combat system from Minecraft Dungeons
   * [betterstats-2.8.1+1.19.2.jar](https://www.curseforge.com/minecraft/mc-mods/better-stats/files/4561815) (by [Dev](https://www.curseforge.com/members/Dev/projects))
+    * Replaces the Vanilla statistics screen with a new and improved statistics screen
   * [better-end-2.1.5.jar](https://www.curseforge.com/minecraft/mc-mods/betterend/files/4539997) (by [Quiqueck](https://www.curseforge.com/members/Quiqueck/projects))
-  * [BetterF3-4.0.0-Fabric-1.19.2.jar](https://www.curseforge.com/minecraft/mc-mods/betterf3/files/4030572) (by [cominixo](https://www.curseforge.com/members/cominixo/projects))
+    * Better End Dimension
   * [better-nether-7.1.3.jar](https://www.curseforge.com/minecraft/mc-mods/betternether/files/4393102) (by [Quiqueck](https://www.curseforge.com/members/Quiqueck/projects))
+    * Better Nether Dimension
   * [bewitchment-1.19-7.jar](https://www.curseforge.com/minecraft/mc-mods/bewitchment/files/4530660) (by [MoriyaShiine](https://www.curseforge.com/members/MoriyaShiine/projects))
-  * [BHMenu-Fabric-1.19.2-2.3.1.jar](https://www.curseforge.com/minecraft/mc-mods/bisecthosting-server-integration-menu-fabric/files/4528923) (by [BisectHosting](https://www.curseforge.com/members/BisectHosting/projects))
+    * Pacts with powerful demons, become a vampire or werewolf, brew powerful potions, cast rituals and curse your enemies.
   * [bitsandchisels-2.7.0.jar](https://www.curseforge.com/minecraft/mc-mods/bits-and-chisels/files/3841599) (by [cool_mineman](https://www.curseforge.com/members/cool_mineman/projects))
-  * [blame-log-0.2.2-1.18.jar](https://www.curseforge.com/minecraft/mc-mods/blame-log/files/4514227) (by [melontini](https://www.curseforge.com/members/melontini/projects))
+    * Lets you remove small bits from blocks using chisels
   * [blockus-2.5.9+1.19.2.jar](https://www.curseforge.com/minecraft/mc-mods/blockus/files/4458022) (by [Brandcraft_](https://www.curseforge.com/members/Brandcraft_/projects))
+      * Adds generic colorful blocks
   * [boatcontainer-1.2.4-1.19.jar](https://www.curseforge.com/minecraft/mc-mods/boat-container/files/3984803) (by [KxmischesDomi](https://www.curseforge.com/members/KxmischesDomi/projects))
-  * [Bookshelf-Fabric-1.19.2-16.2.18.jar](https://www.curseforge.com/minecraft/mc-mods/bookshelf/files/4426590) (by [DarkhaxDev](https://www.curseforge.com/members/DarkhaxDev/projects))
+    * Nether and regular chests in boats
   * [BOMD-1.4.6-1.19.2.jar](https://www.curseforge.com/minecraft/mc-mods/bosses-of-mass-destruction/files/4175430) (by [Barribob](https://www.curseforge.com/members/Barribob/projects))
+    * End Game Bosses!
   * [Botania-1.19.2-440-FABRIC.jar](https://www.curseforge.com/minecraft/mc-mods/botania-fabric/files/4557910) (by [williewillus](https://www.curseforge.com/members/williewillus/projects))
-  * [botarium-fabric-1.19.2-1.8.2.jar](https://www.curseforge.com/minecraft/mc-mods/botarium/files/4306550) (by [CodexAdrian](https://www.curseforge.com/members/CodexAdrian/projects))
+    * Tech mod themed around natural magic
   * [brewinandchewin-fabric-1.0.6+1.19.2.jar](https://www.curseforge.com/minecraft/mc-mods/brewin-and-chewin-fabric/files/4474429) (by [MrSterner_](https://www.curseforge.com/members/MrSterner_/projects))
+    * Adds kegs and fermenting mechanics to Farmer's Delight
   * [calibrated-1.1.0+1.19.jar](https://www.curseforge.com/minecraft/mc-mods/calibrated/files/4403699) (by [acikek](https://www.curseforge.com/members/acikek/projects))
   * [can-i-mine-this-block-1.3.0.jar](https://www.curseforge.com/minecraft/mc-mods/can-i-mine-this-block/files/3831994) (by [shedaniel](https://www.curseforge.com/members/shedaniel/projects))
   * [capybara-1.19-2.0.1.jar](https://www.curseforge.com/minecraft/mc-mods/capybara-fabric/files/4104265) (by [ZestyBlaze](https://www.curseforge.com/members/ZestyBlaze/projects))
