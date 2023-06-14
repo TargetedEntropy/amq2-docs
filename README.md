@@ -205,7 +205,7 @@
       * Rare loot crates with exciting loot 🔮
       * Nether and End fishing, with dimension-specific fishing mechanics 🐠    
   * [Gobber2-Fabric-1.19.2-2.6.61.jar](https://www.curseforge.com/minecraft/mc-mods/gobber-fabric/files/4086199) (by [kwpugh](https://www.curseforge.com/members/kwpugh/projects))
-   * **Powerful armor, tools, weapons, rings, medallions, staffs, and enchantments.**
+    * **Powerful armor, tools, weapons, rings, medallions, staffs, and enchantments.**
   * [GuardiansGalore-1.19.2-3.1.jar](https://www.curseforge.com/minecraft/mc-mods/guardians-galore/files/4095977) (by [chirpycricket__](https://www.curseforge.com/members/chirpycricket__/projects))
     * **Adds summonable mobs to guard your base!**
   * [half-doors-1.3.9+1.19.x.jar](https://www.curseforge.com/minecraft/mc-mods/half-doors/files/3931393) (by [AmyMialee](https://www.curseforge.com/members/AmyMialee/projects))
