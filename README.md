@@ -298,86 +298,65 @@ This mod list was taken from [https://github.com/itsdinkd/AQM2/blob/1.19.2/MODLI
     * Adds a Painter which can be crafted with two sticks and one wool.
   * [Mo-Glass-1.6.1-MC1.19.2.jar](https://www.curseforge.com/minecraft/mc-mods/mo-glass/files/3921699) (by [alexander9892](https://www.curseforge.com/members/alexander9892/projects))
     * High Quality Glass Pieces
-  * [MobPlaques-v4.0.1-1.19.2-Fabric.jar](https://www.curseforge.com/minecraft/mc-mods/mob-plaques/files/4332085) (by [Fuzs](https://www.curseforge.com/members/Fuzs/projects))
   * [mobz-3.3.5-fabric.jar](https://www.curseforge.com/minecraft/mc-mods/mobz/files/4036547) (by [Globox_Z](https://www.curseforge.com/members/Globox_Z/projects))
-  * [modelfix-1.8-fabric.jar](https://www.curseforge.com/minecraft/mc-mods/model-gap-fix/files/4024854) (by [MehVahdJukaar](https://www.curseforge.com/members/MehVahdJukaar/projects))
+    * Adds a bunch of new mobs
   * [Modern-Dynamics-0.6.1-beta.jar](https://www.curseforge.com/minecraft/mc-mods/modern-dynamics/files/4562941) (by [thetechnici4n](https://www.curseforge.com/members/thetechnici4n/projects))
+    * Adds Modern item & fluid pipes, cables
   * [Modern-Industrialization-1.6.9.jar](https://www.curseforge.com/minecraft/mc-mods/modern-industrialization/files/4569259) (by [thetechnici4n](https://www.curseforge.com/members/thetechnici4n/projects))
-  * [modmenu-4.2.0-beta.2.jar](https://www.curseforge.com/minecraft/mc-mods/modmenu/files/4401051) (by [Prospector](https://www.curseforge.com/members/Prospector/projects))
-  * [morebannerfeatures-1.1.3-1.19.jar](https://www.curseforge.com/minecraft/mc-mods/more-banner-features/files/3820969) (by [KxmischesDomi](https://www.curseforge.com/members/KxmischesDomi/projects))
+    * A tech mod with the focus of **total automation**
   * [morevillagers-fabric-1.19-4.0.2.jar](https://www.curseforge.com/minecraft/mc-mods/more-villagers-fabric/files/3843501) (by [SameDifferent](https://www.curseforge.com/members/SameDifferent/projects))
+    * Adds more villager types
   * [mythic-mounts-1.19.2-7.2.jar](https://www.curseforge.com/minecraft/mc-mods/mythic-mounts/files/4507470) (by [chirpycricket__](https://www.curseforge.com/members/chirpycricket__/projects))
-  * [Mythical Origins.jar](https://www.curseforge.com/minecraft/mc-mods/mythical-origins/files/4337283) (by [proman468](https://www.curseforge.com/members/proman468/projects))
+    * Tameable animals which can be mounted, flying, aquatic and terrestrial 
   * [mythicmetals-0.17.3+1.19.2.jar](https://www.curseforge.com/minecraft/mc-mods/mythicmetals/files/4441526) (by [Noaaan](https://www.curseforge.com/members/Noaaan/projects))
+    * New ores,ingots and alloys plus tools and armor.
   * [NaturesCompass-1.19.2-2.1.0-fabric.jar](https://www.curseforge.com/minecraft/mc-mods/natures-compass/files/4118387) (by [Chaosyr](https://www.curseforge.com/members/Chaosyr/projects))
-  * [NoChatReports-FABRIC-1.19.2-v1.13.12.jar](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports/files/4082460) (by [Aizistral](https://www.curseforge.com/members/Aizistral/projects))
-  * [NoFog-1.3.3_1.16.5-1.19.4-fabric.jar](https://www.curseforge.com/minecraft/mc-mods/nofog/files/4461437) (by [Tommeh2](https://www.curseforge.com/members/Tommeh2/projects))
+    * Utility item that searches for biome's anywhere in the world and get info about it
   * [Oh_The_Biomes_You'll_Go-fabric-1.19.2-2.0.1.1.jar](https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go-fabric/files/4426495) (by [AOCAWOL](https://www.curseforge.com/members/AOCAWOL/projects))
-  * [omega-config-base-1.2.3-1.18.1.jar](https://www.curseforge.com/minecraft/mc-mods/omega-config/files/3612206) (by [Draylar1](https://www.curseforge.com/members/Draylar1/projects))
-  * [onsoulfire-1.19-2.jar](https://www.curseforge.com/minecraft/mc-mods/on-soul-fire/files/3830809) (by [MoriyaShiine](https://www.curseforge.com/members/MoriyaShiine/projects))
-  * [Origins-1.19.2-1.7.1.jar](https://www.curseforge.com/minecraft/mc-mods/origins/files/4044263) (by [Apace](https://www.curseforge.com/members/Apace/projects))
-  * [Origins-Classes-1.19-1.4.0.jar](https://www.curseforge.com/minecraft/mc-mods/origins-classes/files/3827906) (by [Apace](https://www.curseforge.com/members/Apace/projects))
-  * [extrakeybinds-0.4.0+1.17-1.19.2.jar](https://www.curseforge.com/minecraft/mc-mods/origins-extra-keybinds/files/4031145) (by [thatrobin3001](https://www.curseforge.com/members/thatrobin3001/projects))
-  * [owo-lib-0.9.3+1.19.jar](https://www.curseforge.com/minecraft/mc-mods/owo-lib/files/4152949) (by [gliscowo](https://www.curseforge.com/members/gliscowo/projects))
-  * [paginatedadvancements-2.2.1-1.19.jar](https://www.curseforge.com/minecraft/mc-mods/paginated-advancements/files/4490380) (by [DaFuqsy](https://www.curseforge.com/members/DaFuqsy/projects))
-  * [Paintings-fabric-1.19.2-10.2.4.0.jar](https://www.curseforge.com/minecraft/mc-mods/paintings/files/4084512) (by [AbsolemJackdaw](https://www.curseforge.com/members/AbsolemJackdaw/projects))
-  * [pal-1.6.0.jar](https://www.curseforge.com/minecraft/mc-mods/pal/files/3800599) (by [PyrofabTheModsmith](https://www.curseforge.com/members/PyrofabTheModsmith/projects))
-  * [Patchouli-1.19.2-77-FABRIC.jar](https://www.curseforge.com/minecraft/mc-mods/patchouli-fabric/files/4031404) (by [williewillus](https://www.curseforge.com/members/williewillus/projects))
-  * [patchoulibutton-1.0.2.jar](https://www.curseforge.com/minecraft/mc-mods/patchoulibutton/files/4297608) (by [Globox_Z](https://www.curseforge.com/members/Globox_Z/projects))
-  * [paucal-fabric-1.19.2-0.5.0.jar](https://www.curseforge.com/minecraft/mc-mods/paucal/files/4100643) (by [petrak_at](https://www.curseforge.com/members/petrak_at/projects))
-  * [Pehkui-3.7.5+1.14.4-1.20.jar](https://www.curseforge.com/minecraft/mc-mods/pehkui/files/4556169) (by [Virtuoel](https://www.curseforge.com/members/Virtuoel/projects))
-  * [phosphor-fabric-mc1.19.x-0.8.1.jar](https://www.curseforge.com/minecraft/mc-mods/phosphor/files/3832074) (by [jellysquid3_](https://www.curseforge.com/members/jellysquid3_/projects))
-  * [PickUpNotifier-v4.2.4-1.19.2-Fabric.jar](https://www.curseforge.com/minecraft/mc-mods/pick-up-notifier/files/4401356) (by [Fuzs](https://www.curseforge.com/members/Fuzs/projects))
+    * More Biomes
   * [plantinajar-2.5.0.jar](https://www.curseforge.com/minecraft/mc-mods/plant-in-a-jar/files/4083775) (by [cool_mineman](https://www.curseforge.com/members/cool_mineman/projects))
-  * [player-animation-lib-fabric-1.0.2.jar](https://www.curseforge.com/minecraft/mc-mods/playeranimator/files/4418150) (by [KosmX](https://www.curseforge.com/members/KosmX/projects))
-  * [pling-1.5.0.jar](https://www.curseforge.com/minecraft/mc-mods/pling/files/3550632) (by [haykam](https://www.curseforge.com/members/haykam/projects))
+    * Plants in Jars!
   * [plushie-mod-1.2.jar](https://www.curseforge.com/minecraft/mc-mods/plushie-mod/files/3827209) (by [Link_911](https://www.curseforge.com/members/Link_911/projects))
-  * [polymorph-fabric-0.46.1+1.19.2.jar](https://www.curseforge.com/minecraft/mc-mods/polymorph-fabric/files/4119085) (by [TheIllusiveC4](https://www.curseforge.com/members/TheIllusiveC4/projects))
+    * Adds lots of cute Minecraft Plushies
   * [Powah-4.0.10.jar](https://www.curseforge.com/minecraft/mc-mods/powah-rearchitected/files/4525231) (by [thetechnici4n](https://www.curseforge.com/members/thetechnici4n/projects))
-  * [prefab-fabric-4.2.4.jar](https://www.curseforge.com/minecraft/mc-mods/prefab-fabric/files/4084439) (by [MoonliteDelight](https://www.curseforge.com/members/MoonliteDelight/projects))
-  * [PresenceFootsteps-1.6.4.jar](https://www.curseforge.com/minecraft/mc-mods/presence-footsteps/files/4239129) (by [S0llace](https://www.curseforge.com/members/S0llace/projects))
-  * [Prism-1.19.2-fabric-1.0.3.jar](https://www.curseforge.com/minecraft/mc-mods/prism-fabric/files/4030091) (by [Grend_G](https://www.curseforge.com/members/Grend_G/projects))
-  * [Public GUI Announcement-fabric-1.19.2-4.3.3.jar](https://www.curseforge.com/minecraft/mc-mods/public-gui-announcement/files/4021614) (by [AbsolemJackdaw](https://www.curseforge.com/members/AbsolemJackdaw/projects))
-  * [PuzzlesLib-v4.4.0-1.19.2-Fabric.jar](https://www.curseforge.com/minecraft/mc-mods/puzzles-lib/files/4499053) (by [Fuzs](https://www.curseforge.com/members/Fuzs/projects))
-  * [questsadditions-fabric-1.19.2-1.4.1.jar](https://www.curseforge.com/minecraft/mc-mods/quests-additions-fabric/files/4269984) (by [NaturaSpell](https://www.curseforge.com/members/NaturaSpell/projects))
-  * [quickshulker-1.3.9-1.19.jar](https://www.curseforge.com/minecraft/mc-mods/quick-shulker/files/4008788) (by [Kyrptonaught](https://www.curseforge.com/members/Kyrptonaught/projects))
-  * [reacharound+1.19-1.1.2.jar](https://www.curseforge.com/minecraft/mc-mods/reacharound/files/4367171) (by [spAnser](https://www.curseforge.com/members/spAnser/projects))
-  * [RebornCore-5.4.0.jar](https://www.curseforge.com/minecraft/mc-mods/reborncore/files/4102771) (by [modmuss50](https://www.curseforge.com/members/modmuss50/projects))
+    * Adds Furnators, Magmators, Solar Panels, Thermo Generators, and of course the Reactor multiblocks! 
   * [red-bits-1.14.1.jar](https://www.curseforge.com/minecraft/mc-mods/red-bits/files/4240810) (by [magistermaks](https://www.curseforge.com/members/magistermaks/projects))
-  * [reeses_sodium_options-1.4.9+mc1.19.2-build.67.jar](https://www.curseforge.com/minecraft/mc-mods/reeses-sodium-options/files/4126247) (by [FlashyReese](https://www.curseforge.com/members/FlashyReese/projects))
-  * [repurposed_structures_fabric-6.3.24+1.19.2.jar](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures-fabric/files/4499781) (by [telepathicgrunt](https://www.curseforge.com/members/telepathicgrunt/projects))
-  * [resourcefulconfig-fabric-1.19.2-1.0.20.jar](https://www.curseforge.com/minecraft/mc-mods/resourceful-config/files/4444200) (by [ThatGravyBoat](https://www.curseforge.com/members/ThatGravyBoat/projects))
-  * [resourcefullib-fabric-1.19.2-1.1.24.jar](https://www.curseforge.com/minecraft/mc-mods/resourceful-lib/files/4477754) (by [ThatGravyBoat](https://www.curseforge.com/members/ThatGravyBoat/projects))
+    * Adds new redstone components and improves some already existing vanilla mechanics.
   * [respawnablepets-1.19-2.jar](https://www.curseforge.com/minecraft/mc-mods/respawnable-pets/files/3830803) (by [MoriyaShiine](https://www.curseforge.com/members/MoriyaShiine/projects))
-  * [revelationary-1.3.5.jar](https://www.curseforge.com/minecraft/mc-mods/revelationary/files/4492955) (by [DaFuqsy](https://www.curseforge.com/members/DaFuqsy/projects))
-  * [rhino-fabric-1902.2.2-build.268.jar](https://www.curseforge.com/minecraft/mc-mods/rhino/files/4476055) (by [LatvianModder](https://www.curseforge.com/members/LatvianModder/projects))
+     * Allows your tamed pets to respawn once you next sleep in a bed
   * [right-click-harvest-3.2.1+1.19.x-fabric.jar](https://www.curseforge.com/minecraft/mc-mods/rightclickharvest/files/4565172) (by [jamalam360](https://www.curseforge.com/members/jamalam360/projects))
+     * Right Click to harvest crops
   * [rottencreatures-fabric-1.19.2-1.0.1.jar](https://www.curseforge.com/minecraft/mc-mods/rotten-creatures/files/4063269) (by [fusionstudiomc](https://www.curseforge.com/members/fusionstudiomc/projects))
-  * [RoughlyEnoughItems-9.1.615.jar](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items/files/4561838) (by [shedaniel](https://www.curseforge.com/members/shedaniel/projects))
-  * [rer-2.6.0.jar](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-resources/files/3837336) (by [theorbagain](https://www.curseforge.com/members/theorbagain/projects))
+     * Adds additional hostile mobs
   * [rpgstats-4.5.0+1.19.2.jar](https://www.curseforge.com/minecraft/mc-mods/rpgstats/files/4291799) (by [silverthelesbian](https://www.curseforge.com/members/silverthelesbian/projects))
-  * [runes-fabric-0.9.8+1.19.jar](https://www.curseforge.com/minecraft/mc-mods/rune-crafting/files/4543585) (by [daedelus_dev](https://www.curseforge.com/members/daedelus_dev/projects))
+    * Adds 6 stats, Melee, Ranged, Defense, Farming, Mining, and Magic, which all cap at level 50
   * [rusticated-2.0.5-fabric.jar](https://www.curseforge.com/minecraft/mc-mods/rusticated/files/4379455) (by [cScotPlay](https://www.curseforge.com/members/cScotPlay/projects))
+    * Rusticated is split into three categories to enhance your experiences.
+      * Decoration - Rusticated adds numerous blocks to help build and rusticate the world around you.
+      * Agricultural - Take everyday items to crush, evaporate, or brew them for special effects.
+      * Alchemy - Find herbs, plants, and roots in the world and condense them into special elixirs.
   * [sandwichable-1.3.a+1.19.jar](https://www.curseforge.com/minecraft/mc-mods/sandwichable/files/3852029) (by [FoundationGames](https://www.curseforge.com/members/FoundationGames/projects))
-  * [satin-1.9.0.jar](https://www.curseforge.com/minecraft/mc-mods/satin-api/files/3864173) (by [PyrofabTheModsmith](https://www.curseforge.com/members/PyrofabTheModsmith/projects))
-  * [moonlight-1.19.2-2.2.38-fabric.jar](https://www.curseforge.com/minecraft/mc-mods/selene/files/4569959) (by [MehVahdJukaar](https://www.curseforge.com/members/MehVahdJukaar/projects))
-  * [ShoulderSurfing-Fabric-1.19.2-2.3.2.jar](https://www.curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded/files/4510873) (by [_ForgeUser21552638](https://www.curseforge.com/members/_ForgeUser21552638/projects))
-  * [shulkerboxtooltip-fabric-3.2.2+1.19.2.jar](https://www.curseforge.com/minecraft/mc-mods/shulkerboxtooltip/files/4054090) (by [MisterPeModder](https://www.curseforge.com/members/MisterPeModder/projects))
+    * Customizable Sandwiches
   * [wraith-silkspawners-1.1.2.jar](https://www.curseforge.com/minecraft/mc-mods/silkspawners/files/3823602) (by [LordDeatHunter](https://www.curseforge.com/members/LordDeatHunter/projects))
+    * Lets you collect spawners with silk touch. That's it.
   * [simplyswords-fabric-1.47.0-1.19.2.jar](https://www.curseforge.com/minecraft/mc-mods/simply-swords/files/4553235) (by [sweenuss](https://www.curseforge.com/members/sweenuss/projects))
-  * [3dskinlayers-fabric-1.5.2-mc1.19.1.jar](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d/files/4001981) (by [tr7zw](https://www.curseforge.com/members/tr7zw/projects))
-  * [skylorlib-1.5.1.jar](https://www.curseforge.com/minecraft/mc-mods/skylib/files/3850466) (by [SkylorBeck](https://www.curseforge.com/members/SkylorBeck/projects))
-  * [SmartBrainLib-fabric-1.19.2-1.9.jar](https://www.curseforge.com/minecraft/mc-mods/smartbrainlib/files/4458564) (by [Scimiguy](https://www.curseforge.com/members/Scimiguy/projects))
-  * [smoothboot-fabric-1.19-1.7.1.jar](https://www.curseforge.com/minecraft/mc-mods/smooth-boot/files/3821513) (by [UltimateBoomer](https://www.curseforge.com/members/UltimateBoomer/projects))
-  * [sodium-fabric-mc1.19.2-0.4.4+build.18.jar](https://www.curseforge.com/minecraft/mc-mods/sodium/files/3957319) (by [jellysquid3_](https://www.curseforge.com/members/jellysquid3_/projects))
-  * [sodium-extra-0.4.16+mc1.19.2-build.90.jar](https://www.curseforge.com/minecraft/mc-mods/sodium-extra/files/4279044) (by [FlashyReese](https://www.curseforge.com/members/FlashyReese/projects))
+    * New Weapon Variants
   * [spectrum-1.6.10-1.19.2-leisure_time.jar](https://www.curseforge.com/minecraft/mc-mods/spectrum/files/4492664) (by [DaFuqsy](https://www.curseforge.com/members/DaFuqsy/projects))
+    * Progression- and exploration-driven magic mod where you combine colors to create magical tools and machines with the final goal to find out what lies below the once-impenetrable Bedrock floor.
   * [spell_engine-fabric-0.9.24+1.19.jar](https://www.curseforge.com/minecraft/mc-mods/spell-engine/files/4565272) (by [daedelus_dev](https://www.curseforge.com/members/daedelus_dev/projects))
+    * Adds casting Spells and add them to Weapons
   * [spell_power-fabric-0.9.12+1.19.jar](https://www.curseforge.com/minecraft/mc-mods/spell-power/files/4543602) (by [daedelus_dev](https://www.curseforge.com/members/daedelus_dev/projects))
+    * Entity Attributes for powering magical abilitie
   * [spoornweaponattributes-4.0.10-1.19-fabric.jar](https://www.curseforge.com/minecraft/mc-mods/spoorn-weapon-attributes/files/4405579) (by [spoorn](https://www.curseforge.com/members/spoorn/projects))
-  * [spoornpacks-4.3.3-1.19.1.jar](https://www.curseforge.com/minecraft/mc-mods/spoornpacks/files/3910862) (by [spoorn](https://www.curseforge.com/members/spoorn/projects))
+    * Additonal attributes for weapons, like Lightning Damage or Critical Chance
   * [sprout-1.4.4-fabric.jar](https://www.curseforge.com/minecraft/mc-mods/sprout/files/4068725) (by [Frogipher](https://www.curseforge.com/members/Frogipher/projects))
+    * Elephants - Spawns in meadows and tamed with peanuts, will water any plants nearby after filling up on by any nearby water source.
+    * Bounce Bugs - Spawning in crimson and warped forests, these can be bottled & used to grow nearby nether wart and mushrooms.
+    * Peanut Crops - Found in meadows, the peanut is a new farm crop that can be harvested and grown.
+    * Various Food Items - New pies, cookies, jams, and sandwiches have been added. (As of 1.4.0 this has been moved to Cozy)
+    * Crossbreeding - Craft a flower box, place 3 with a flower on each end to get any of the 16 colors of any vanilla flower!
   * [stoneholm-1.4.4.jar](https://www.curseforge.com/minecraft/mc-mods/stoneholm/files/3819692) (by [TheGrimsey](https://www.curseforge.com/members/TheGrimsey/projects))
+    * Underground Villages
   * [Structory-1.19-v1.3.jar](https://www.curseforge.com/minecraft/mc-mods/structory/files/4033419) (by [botanydev](https://www.curseforge.com/members/botanydev/projects))
   * [Structory_Towers_1.19_v1.0.1.jar](https://www.curseforge.com/minecraft/mc-mods/structory-towers/files/4306457) (by [botanydev](https://www.curseforge.com/members/botanydev/projects))
   * [structureessentials-fabric-1.19.2-2.8.jar](https://www.curseforge.com/minecraft/mc-mods/structure-essentials-forge-fabric/files/4553851) (by [someaddon](https://www.curseforge.com/members/someaddon/projects))
