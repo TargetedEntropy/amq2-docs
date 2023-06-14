@@ -229,24 +229,29 @@ This mod list was taken from [https://github.com/itsdinkd/AQM2/blob/1.19.2/MODLI
     * Adding enchantments and curses to the game.
   * [indrev-1.15.1-BETA.jar](https://www.curseforge.com/minecraft/mc-mods/industrial-revolution/files/4020957) (by [GabrielHOlv](https://www.curseforge.com/members/GabrielHOlv/projects))
     * Industrial Revolution presents standard processing machines for your factory
-  * [IngredientExtensionAPI-fabric-1.19.2-3.0.6.jar](https://www.curseforge.com/minecraft/mc-mods/ingredient-extension-api/files/4134668) (by [Jaredlll08](https://www.curseforge.com/members/Jaredlll08/projects))
   * [inmis-2.7.1-1.19.jar](https://www.curseforge.com/minecraft/mc-mods/inmis/files/4031400) (by [Draylar1](https://www.curseforge.com/members/Draylar1/projects))
-  * [inmisaddon-1.0.4.jar](https://www.curseforge.com/minecraft/mc-mods/inmisaddon/files/4460813) (by [Globox_Z](https://www.curseforge.com/members/Globox_Z/projects))
-  * [InvView-1.4.9-1.19+.jar](https://www.curseforge.com/minecraft/mc-mods/inv-view/files/3831482) (by [potatoboy99999](https://www.curseforge.com/members/potatoboy99999/projects))
+   * Backpacks!
   * [invhud.fabric.1.19-3.4.7.jar](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge/files/4153723) (by [dmitrylovin](https://www.curseforge.com/members/dmitrylovin/projects))
+    * Allows showing your inventory while you are playing
   * [InventoryProfilesNext-fabric-1.19-1.9.7.jar](https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next/files/4511905) (by [mirinimi](https://www.curseforge.com/members/mirinimi/projects))
+    * Inventory Sorting, one-click all moves, etc
   * [takesapillage-1.19-1.0.4.jar](https://www.curseforge.com/minecraft/mc-mods/it-takes-a-pillage-fabric/files/4098018) (by [izofar](https://www.curseforge.com/members/izofar/projects))
-  * [ItemBorders-1.19-fabric-1.1.6.jar](https://www.curseforge.com/minecraft/mc-mods/item-borders-fabric/files/3849750) (by [Grend_G](https://www.curseforge.com/members/Grend_G/projects))
-  * [item-filters-fabric-1902.2.9-build.51.jar](https://www.curseforge.com/minecraft/mc-mods/item-filters/files/4553325) (by [LatvianModder](https://www.curseforge.com/members/LatvianModder/projects))
+   * Expanded Pillager encampments and fortresses all over the world
   * [itemscroller-fabric-1.19.2-0.17.1.jar](https://www.curseforge.com/minecraft/mc-mods/item-scroller/files/3923056) (by [masady](https://www.curseforge.com/members/masady/projects))
+   * Adds several ways of moving items in inventory GUIs.
   * [jamd-fabric-2.0.5-build.12+mc1.19.2.jar](https://www.curseforge.com/minecraft/mc-mods/jamd/files/4083341) (by [UnRealDinnerbone](https://www.curseforge.com/members/UnRealDinnerbone/projects))
-  * [jamlib-0.6.0+1.19.jar](https://www.curseforge.com/minecraft/mc-mods/jamlib/files/4318554) (by [jamalam360](https://www.curseforge.com/members/jamalam360/projects))
-  * [keywizard-fabric-v2.0.1-1.19.2.jar](https://www.curseforge.com/minecraft/mc-mods/keyboard-wizard/files/4111459) (by [mrnerdy42](https://www.curseforge.com/members/mrnerdy42/projects))
+    * Adds a simply mining dimension
   * [kibe-1.9.11-BETA+1.19.jar](https://www.curseforge.com/minecraft/mc-mods/kibe/files/4352610) (by [D4rkness_King](https://www.curseforge.com/members/D4rkness_King/projects))
-  * [konkrete_fabric_1.6.1_MC_1.19.1-1.19.2.jar](https://www.curseforge.com/minecraft/mc-mods/konkrete-fabric/files/4514884) (by [Keksuccino](https://www.curseforge.com/members/Keksuccino/projects))
-  * [krypton-0.2.1.jar](https://www.curseforge.com/minecraft/mc-mods/krypton/files/3908028) (by [tuxed](https://www.curseforge.com/members/tuxed/projects))
-  * [kubejs-fabric-1902.6.0-build.142.jar](https://www.curseforge.com/minecraft/mc-mods/kubejs/files/4377174) (by [LatvianModder](https://www.curseforge.com/members/LatvianModder/projects))
-  * [kjsextras-3.0.0.jar](https://www.curseforge.com/minecraft/mc-mods/kubejs-extras/files/3783101) (by [thetechnici4n](https://www.curseforge.com/members/thetechnici4n/projects))
+    * A miscellaneous mod that adds a bunch of random, and mostly unoriginal things. (LOL)
+      * Entangled Chests linked chests that work across dimensions and stores the same items as long as they are color-coded the same.
+      * Cursed Dirt is a simple grass-like block that burns when exposed to sunlight, but when in dark environments, will have vastly improved spawn rate for monsters.
+      * Big Torch is a block that cancels any mob spawning that requires no light in a configurable area. It's useful to protect your base and to clean caves and dungeons.
+      * Elevators are simple blocks that, when stepped upon, can teleport the player upwards and downwards, as long as it finds another elevator directly above or below it.
+      * Vacuum Hoppers are blocks that can pull nearby dropped items and experience orbs to their own inventory.
+      * XP Drains are blocks that will drain XP from a player and store it in a fluid container placed directly below it.
+      * XP Showers are blocks that can transform the liquid XP from tanks behind it into experience orbs that players can absorb.
+      * Witherproof Blocks and Wither Builders
+      * Gliders
   * [labels-1.19.2-1.9-fabric.jar](https://www.curseforge.com/minecraft/mc-mods/labels/files/4527829) (by [MehVahdJukaar](https://www.curseforge.com/members/MehVahdJukaar/projects))
   * [lambdabettergrass-1.3.0+1.19.jar](https://www.curseforge.com/minecraft/mc-mods/lambdabettergrass/files/3834055) (by [LambdAurora](https://www.curseforge.com/members/LambdAurora/projects))
   * [lambdynamiclights-2.2.0+1.19.2.jar](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights/files/4257321) (by [LambdAurora](https://www.curseforge.com/members/LambdAurora/projects))
