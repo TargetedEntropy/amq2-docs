@@ -168,43 +168,46 @@
     * Easy creation of powerful yet not overpowered storage systems using simple components.
   * [extra-generators-1.2.1-BETA+1.19.jar](https://www.curseforge.com/minecraft/mc-mods/extra-generators/files/3856206) (by [D4rkness_King](https://www.curseforge.com/members/D4rkness_King/projects))
     * Adds a variety of generators
-  * [fabric-api-0.76.0+1.19.2.jar](https://www.curseforge.com/minecraft/mc-mods/fabric-api/files/4438705) (by [modmuss50](https://www.curseforge.com/members/modmuss50/projects))
-  * [DisableCustomWorldsAdvice-3.0.jar](https://www.curseforge.com/minecraft/mc-mods/fabric-disable-custom-worlds-advice/files/3827588) (by [Nara](https://www.curseforge.com/members/Nara/projects))
   * [fabric-enchantments-0.9.0.jar](https://www.curseforge.com/minecraft/mc-mods/fabric-enchantments/files/4119756) (by [safrodev](https://www.curseforge.com/members/safrodev/projects))
+    * New enchantments, a few are:
+      * Experience I-II: Grants the user more experience when killing entities
+      * Beheading: Has a 5% chance for Creepers, Zombies, and Skeletons to drop their head when killed
+      * God of the Sea: Grants water breathing while the user is holding the enchanted item
   * [fabric-furnaces-2.2.0-1.19.2.jar](https://www.curseforge.com/minecraft/mc-mods/fabric-furnaces/files/4031463) (by [Draylar1](https://www.curseforge.com/members/Draylar1/projects))
-  * [fabric-language-kotlin-1.9.4+kotlin.1.8.21.jar](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin/files/4507659) (by [modmuss50](https://www.curseforge.com/members/modmuss50/projects))
-  * [fabric-language-scala-1.1.0+scala.2.13.6-fat.jar](https://www.curseforge.com/minecraft/mc-mods/fabric-language-scala/files/3392902) (by [modmuss50](https://www.curseforge.com/members/modmuss50/projects))
-  * [FabricShieldLib-1.6.1-1.19.jar](https://www.curseforge.com/minecraft/mc-mods/fabric-shield-lib/files/4153077) (by [CrimsonDawn45](https://www.curseforge.com/members/CrimsonDawn45/projects))
+    * Furnaces based on vanilla materials that scale in speed & ability
   * [wraith-waystones-3.0.8+mc1.19.2.jar](https://www.curseforge.com/minecraft/mc-mods/fabric-waystones/files/4567225) (by [LordDeatHunter](https://www.curseforge.com/members/LordDeatHunter/projects))
+    * teleport between other discovered (or global) Waystone markers
   * [fabrictailor-2.0.1.jar](https://www.curseforge.com/minecraft/mc-mods/fabrictailor/files/3940349) (by [samo_lego](https://www.curseforge.com/members/samo_lego/projects))
-  * [fallingleaves-1.13.0+1.19.2.jar](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-fabric/files/4101831) (by [RandomMcSomethin](https://www.curseforge.com/members/RandomMcSomethin/projects))
-  * [FallingTree-1.19.2-3.10.0.jar](https://www.curseforge.com/minecraft/mc-mods/falling-tree/files/3968312) (by [rakambda](https://www.curseforge.com/members/rakambda/projects))
-  * [fancymenu_fabric_2.14.7_MC_1.19-1.19.2.jar](https://www.curseforge.com/minecraft/mc-mods/fancymenu-fabric/files/4503115) (by [Keksuccino](https://www.curseforge.com/members/Keksuccino/projects))
+    * Skin & cape changing / restoring
   * [farmers-delight-fabric-1.19.X-1.3.9.jar](https://www.curseforge.com/minecraft/mc-mods/farmers-delight-fabric/files/4111426) (by [NewHoryzon](https://www.curseforge.com/members/NewHoryzon/projects))
+    * Gently expands upon farming and cooking in Minecraft
   * [farmingforblockheads-fabric-1.19.2-11.3.0.jar](https://www.curseforge.com/minecraft/mc-mods/farming-for-blockheads-fabric/files/4510522) (by [BlayTheNinth](https://www.curseforge.com/members/BlayTheNinth/projects))
-  * [Fastload+1.18.2-1.20-3.4.0.jar](https://www.curseforge.com/minecraft/mc-mods/fastload/files/4519272) (by [StockiesLad](https://www.curseforge.com/members/StockiesLad/projects))
-  * [ferritecore-5.0.3-fabric.jar](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric/files/4117902) (by [malte0811](https://www.curseforge.com/members/malte0811/projects))
-  * [fabric-experiencebugfix-1.19-19.jar](https://www.curseforge.com/minecraft/mc-mods/fix-experience-bug/files/4365624) (by [MacTso](https://www.curseforge.com/members/MacTso/projects))
+    * Adds a Market block allowing you to buy seeds, saplings, bone meal and more.
   * [flan-1.19.2-1.8.4.1-fabric.jar](https://www.curseforge.com/minecraft/mc-mods/flan/files/4464903) (by [flemmli97](https://www.curseforge.com/members/flemmli97/projects))
-  * [ForgeConfigAPIPort-v4.2.11-1.19.2-Fabric.jar](https://www.curseforge.com/minecraft/mc-mods/forge-config-api-port-fabric/files/4401535) (by [Fuzs](https://www.curseforge.com/members/Fuzs/projects))
-  * [frame-0.26.1+1.19-fabric.jar](https://www.curseforge.com/minecraft/mc-mods/frame-api/files/3943404) (by [Andante](https://www.curseforge.com/members/Andante/projects))
+    * Claim Land
   * [friendsandfoes-fabric-mc1.19.2-1.8.2.jar](https://www.curseforge.com/minecraft/mc-mods/friends-and-foes/files/4540911) (by [faboslav](https://www.curseforge.com/members/faboslav/projects))
-  * [ftb-library-fabric-1902.3.19-build.214.jar](https://www.curseforge.com/minecraft/mc-mods/ftb-library-fabric/files/4541986) (by [FTB](https://www.curseforge.com/members/FTB/projects))
+    * Adds outvoted and forgotten mobs from the mob vote
   * [ftb-quests-fabric-1902.4.16-build.235.jar](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-fabric/files/4553967) (by [FTB](https://www.curseforge.com/members/FTB/projects))
-  * [ftb-teams-fabric-1902.2.13-build.100.jar](https://www.curseforge.com/minecraft/mc-mods/ftb-teams-fabric/files/4477313) (by [FTB](https://www.curseforge.com/members/FTB/projects))
-  * [fuelinfo-1.0.1+1.19.jar](https://www.curseforge.com/minecraft/mc-mods/fuel-info/files/3954147) (by [Luligabi12](https://www.curseforge.com/members/Luligabi12/projects))
+    * Quests!
   * [Galosphere-1.19.2-1.2.2-Fabric.jar](https://www.curseforge.com/minecraft/mc-mods/galosphere/files/4397800) (by [orcinus73](https://www.curseforge.com/members/orcinus73/projects))
+    * Improves the underground by adding new biomes, mechanics, mobs... etc. 
   * [GearReborn-1.19-0.1.15.jar](https://www.curseforge.com/minecraft/mc-mods/gearreborn/files/3844389) (by [loleq21](https://www.curseforge.com/members/loleq21/projects))
-  * [geckolib-fabric-1.19-3.1.40.jar](https://www.curseforge.com/minecraft/mc-mods/geckolib/files/4407239) (by [Gecko](https://www.curseforge.com/members/Gecko/projects))
-  * [genesis-1.19-1.0.2.jar](https://www.curseforge.com/minecraft/mc-mods/genesis-an-origins-addon/files/4199790) (by [PhantomereLive](https://www.curseforge.com/members/PhantomereLive/projects))
+    * Assortment of practical equipment pieces
   * [GiveMeHats-2.5.0.jar](https://www.curseforge.com/minecraft/mc-mods/give-me-hats/files/3840309) (by [Acrogenous](https://www.curseforge.com/members/Acrogenous/projects))
+    * Adds hats that appear in every loot chest
   * [glassential-fabric-1.4.0.jar](https://www.curseforge.com/minecraft/mc-mods/glassential-fabric/files/4102823) (by [UpcraftLP](https://www.curseforge.com/members/UpcraftLP/projects))
+    * Adds new types of Glass
   * [go-fish-1.6.0-1.19.1.jar](https://www.curseforge.com/minecraft/mc-mods/go-fish/files/3956142) (by [Draylar1](https://www.curseforge.com/members/Draylar1/projects))
+    * Fishing enhancement mod, with:
+      * New fun Fish variants - find themed aquatic creatures in all biomes while fishing! 🦈
+      * New Fishing Rods and fishing trinkets ⌚
+      * Creative food options based around aquatic ingredients 🧂
+      * Rare loot crates with exciting loot 🔮
+      * Nether and End fishing, with dimension-specific fishing mechanics 🐠    
   * [Gobber2-Fabric-1.19.2-2.6.61.jar](https://www.curseforge.com/minecraft/mc-mods/gobber-fabric/files/4086199) (by [kwpugh](https://www.curseforge.com/members/kwpugh/projects))
-  * [GottschCore-fabric-mc1.19.2-2.2.0.jar](https://www.curseforge.com/minecraft/mc-mods/gottschcore/files/4510980) (by [gottsch](https://www.curseforge.com/members/gottsch/projects))
-  * [grounded_origins-fabric-1.19.2-1.2.3.jar](https://www.curseforge.com/minecraft/mc-mods/grounded-origins-fabric/files/4036280) (by [mo_shark](https://www.curseforge.com/members/mo_shark/projects))
-  * [guard-villagers-fabric-1.19.2-1.1.2.jar](https://www.curseforge.com/minecraft/mc-mods/guard-villagers-fabric/files/4483298) (by [MrSterner_](https://www.curseforge.com/members/MrSterner_/projects))
+   * **Powerful armor, tools, weapons, rings, medallions, staffs, and enchantments.**
   * [GuardiansGalore-1.19.2-3.1.jar](https://www.curseforge.com/minecraft/mc-mods/guardians-galore/files/4095977) (by [chirpycricket__](https://www.curseforge.com/members/chirpycricket__/projects))
+    * **Adds summonable mobs to guard your base!**
   * [half-doors-1.3.9+1.19.x.jar](https://www.curseforge.com/minecraft/mc-mods/half-doors/files/3931393) (by [AmyMialee](https://www.curseforge.com/members/AmyMialee/projects))
   * [wraith-harvestscythes-2.5.4+mc1.19.2.jar](https://www.curseforge.com/minecraft/mc-mods/harvest-scythes/files/4026103) (by [LordDeatHunter](https://www.curseforge.com/members/LordDeatHunter/projects))
   * [heartstone-1.19.2-1.1.2-fabric.jar](https://www.curseforge.com/minecraft/mc-mods/heartstone/files/4569322) (by [plantspookable](https://www.curseforge.com/members/plantspookable/projects))
