@@ -36,7 +36,6 @@
     * Unlocks the full potential of armor stands.
   * [artifacts-7.1.1+fabric.jar](https://www.curseforge.com/minecraft/mc-mods/artifacts-fabric/files/3843992) (by [florensie](https://www.curseforge.com/members/florensie/projects))
     * Makes exploration more rewarding by adding various powerful items that cannot be crafted.
-  * [autoconfig1u-3.4.0.jar](https://www.curseforge.com/minecraft/mc-mods/auto-config-updated-api/files/3668220) (by [shedaniel](https://www.curseforge.com/members/shedaniel/projects))
   * [auto-workstations-[MC1.19]-v1.0-SNAPSHOT-19.jar](https://www.curseforge.com/minecraft/mc-mods/auto-workstations-fabric/files/4001771) (by [BillBodkin](https://www.curseforge.com/members/BillBodkin/projects))
     * adds automated versions for many of the vanilla workstations, including:
       * Crafting Table, Furnace, Enchanting Table, Brewing Stand
@@ -47,9 +46,9 @@
   * [BedBenefits-Fabric-1.19.2-9.1.3.jar](https://www.curseforge.com/minecraft/mc-mods/bed-benefits/files/4426617) (by [DarkhaxDev](https://www.curseforge.com/members/DarkhaxDev/projects))
     * Sleeping in a bed will heal a player and cure negative+positive potion effects
   * [besmirchment-1.19.2-10.jar](https://www.curseforge.com/minecraft/mc-mods/besmirchment-2/files/4529881) (by [MrSterner_](https://www.curseforge.com/members/MrSterner_/projects))
-   * Implements more or less satirical content
+    * Implements more or less satirical content
   * [bettercombat-fabric-1.7.1+1.19.jar](https://www.curseforge.com/minecraft/mc-mods/better-combat-by-daedelus/files/4534620) (by [daedelus_dev](https://www.curseforge.com/members/daedelus_dev/projects))
-   * Easy, spectacular and fun melee combat system from Minecraft Dungeons
+    * Easy, spectacular and fun melee combat system from Minecraft Dungeons
   * [betterstats-2.8.1+1.19.2.jar](https://www.curseforge.com/minecraft/mc-mods/better-stats/files/4561815) (by [Dev](https://www.curseforge.com/members/Dev/projects))
     * Replaces the Vanilla statistics screen with a new and improved statistics screen
   * [better-end-2.1.5.jar](https://www.curseforge.com/minecraft/mc-mods/betterend/files/4539997) (by [Quiqueck](https://www.curseforge.com/members/Quiqueck/projects))
